@@ -1,0 +1,1829 @@
+,head,relation,tail,head types
+0,Gaspard Monge,country of citizenship,France,human
+1,Leon Russell,occupation,mandolinist,human
+2,Mos Def,occupation,singer,human
+3,Max Frisch,genre,prose,human
+4,Bulat Okudzhava,location of formation,Soviet Union,human
+5,Julio Iglesias,instrument,guitar,human
+6,D. H. Lawrence,occupation,playwright,human
+7,Myles Kennedy,genre,hard rock,human
+8,J. J. Abrams,occupation,producer,human
+9,Malaysia,diplomatic relation,Thailand,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+10,Madagascar,member of,International Finance Corporation,"island nation, country, sovereign state"
+11,Serge Gainsbourg,field of work,performing arts,"twin, human"
+12,Kevin Jonas,record label,Hollywood Records,human
+13,Kenny Rogers,record label,Warner Music Group,human
+14,Victor Ambartsumian,member of,German Academy of Sciences Leopoldina,human
+15,James Bryant Conant,occupation,chemist,human
+16,Franz Miklosich,occupation,philosopher,human
+17,Bosnia and Herzegovina,diplomatic relation,Indonesia,"constitutional republic, sovereign state, country, Mediterranean country"
+18,Charlie Wilson,ethnic group,African Americans,human
+19,Luxembourg,member of,Universal Postal Union,"country, landlocked country, sovereign state, grand duchy, unitary state"
+20,Max Weber,occupation,musicologist,human
+21,Valery Leontiev,genre,disco,human
+22,Augusto Righi,country of citizenship,Kingdom of Italy,human
+23,Serbia,member of,International Bank for Reconstruction and Development,"republic, sovereign state, landlocked country, country"
+24,Gloria Trevi,country of citizenship,Mexico,human
+25,Theodor W. Adorno,occupation,composer,human
+26,James D. Watson,place of birth,Chicago,human
+27,Céline Dion,occupation,film actor,human
+28,Walt Disney,occupation,television presenter,human
+29,Bret Easton Ellis,country of citizenship,United States of America,human
+30,Christa Wolf,"languages spoken, written, or signed",German,human
+31,Japan,diplomatic relation,Germany,"island nation, sovereign state, country"
+32,Sri Lanka,member of,International Centre for Settlement of Investment Disputes,"republic, sovereign state, island nation, country"
+33,Jim Belushi,"languages spoken, written, or signed",English,human
+34,Dean Martin,occupation,screenwriter,human
+35,Charles Bukowski,country of citizenship,United States of America,human
+36,Ricky Gervais,occupation,voice actor,human
+37,Carl Orff,country of citizenship,German Empire,human
+38,Kris Kristofferson,genre,country music,human
+39,Iceland,member of,International Telecommunication Union,"sovereign state, island nation, country"
+40,Anton Bruckner,field of work,performing arts,human
+41,Connie Smith,occupation,musician,human
+42,Wolfgang Schadewaldt,occupation,literary critic,human
+43,Veniamin Smekhov,country of citizenship,Soviet Union,human
+44,Vladimir Lenin,influenced by,Georg Wilhelm Friedrich Hegel,human
+45,Henry Wadsworth Longfellow,country of citizenship,United States of America,human
+46,Brendon Urie,genre,alternative rock,human
+47,Rodion Shchedrin,member of,Bavarian Academy of Fine Arts,human
+48,Eduard Suess,member of,Göttingen Academy of Sciences,human
+49,George Henschel,country of citizenship,United Kingdom,human
+50,East Timor,official language,Portuguese,"country, island nation, sovereign state"
+51,Spain,diplomatic relation,Germany,"sovereign state, colonial power, country, Mediterranean country, member state of the European Union, realm"
+52,Claude Lévi-Strauss,member of,Académie Française,human
+53,Sierra Leone,member of,Universal Postal Union,"sovereign state, republic, country"
+54,RuPaul,country of citizenship,United States of America,human
+55,Bruce Springsteen,occupation,pianist,human
+56,Bangladesh,diplomatic relation,Denmark,"country, sovereign state"
+57,L. Frank Baum,occupation,novelist,human
+58,Ivory Coast,part of,West Africa,"country, sovereign state"
+59,Russell Brand,occupation,actor,human
+60,Joe Dassin,instrument,violin,human
+61,Tanzania,diplomatic relation,People's Republic of China,"sovereign state, republic, country"
+62,Kyrgyzstan,member of,Interpol,"sovereign state, landlocked country, country"
+63,Natasha Shneider,country of citizenship,Soviet Union,human
+64,Jared Leto,occupation,businessperson,human
+65,Valery Meladze,genre,pop music,human
+66,Augustine of Hippo,occupation,music theorist,human
+67,Czech Republic,member of,International Bank for Reconstruction and Development,"landlocked country, country, sovereign state"
+68,Bangladesh,diplomatic relation,Russia,"country, sovereign state"
+69,Debbie Gibson,field of work,musical composition,human
+70,Christina Aguilera,record label,RCA Records,human
+71,Deryck Whibley,occupation,pianist,human
+72,United States of America,diplomatic relation,France,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+73,J. Robert Oppenheimer,"languages spoken, written, or signed",German,human
+74,James Joyce,occupation,writer,human
+75,David Brewster,member of,Bavarian Academy of Sciences and Humanities,human
+76,Nikolay Semyonov,residence,Saint Petersburg,human
+77,Stefan Zweig,occupation,historian,human
+78,David Bowie,instrument,piano,human
+79,Mark Twain,religion,atheism,human
+80,Mike Shinoda,genre,alternative rock,human
+81,Saint Lucia,official language,English,"Commonwealth realm, country, island nation, sovereign state"
+82,François Arago,occupation,biographer,human
+83,Ilya Ehrenburg,"languages spoken, written, or signed",French,human
+84,Andy Williams,genre,pop music,human
+85,Yuri Vizbor,occupation,composer,human
+86,Petula Clark,occupation,stage actor,human
+87,Honoré de Balzac,place of burial,Père Lachaise Cemetery,human
+88,Hungary,member of,Nuclear Suppliers Group,"country, landlocked country, sovereign state"
+89,Vietnam,diplomatic relation,France,"country, sovereign state, communist state"
+90,Yoshiki,genre,rock music,human
+91,Joss Stone,occupation,singer-songwriter,human
+92,Shel Silverstein,occupation,film score composer,human
+93,Mihajlo Pupin,occupation,mathematician,human
+94,William Butler Yeats,influenced by,William Blake,human
+95,Armenia,diplomatic relation,Germany,"landlocked country, sovereign state, country"
+96,Mark Oliver Everett,occupation,record producer,human
+97,Debbie Reynolds,occupation,musician,human
+98,Linda Ronstadt,occupation,singer,human
+99,Norman Mailer,occupation,screenwriter,human
+100,Michael Jackson,occupation,philanthropist,human
+101,Saint Petersburg,named after,Vladimir Lenin,"city with millions of inhabitants, city/town, second largest city, city with millions of inhabitants, city with millions of inhabitants, largest city, capital of Russia, former capital, second largest city, federal city of Russia, big city"
+102,Germany,diplomatic relation,Oman,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+103,"Clarence ""Gatemouth"" Brown",occupation,guitarist,human
+104,Thomas Paine,country of citizenship,Great Britain,human
+105,James Maslow,record label,Columbia Records,human
+106,Iran,member of,United Nations,"Islamic republic, sovereign state, country"
+107,Zooey Deschanel,country of citizenship,United States of America,human
+108,Grenada,member of,International Finance Corporation,"country, sovereign state, island nation, state, Commonwealth realm"
+109,50 Cent,occupation,film actor,human
+110,Hector Berlioz,occupation,librarian,human
+111,Claudio Magris,genre,essay,human
+112,Malaysia,diplomatic relation,Saudi Arabia,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+113,Brazil,diplomatic relation,Italy,"sovereign state, secular state, country, legal state"
+114,Siméon Denis Poisson,member of,Academy of Sciences of Turin,human
+115,Brazil,diplomatic relation,Portugal,"sovereign state, secular state, country, legal state"
+116,Colbie Caillat,country of citizenship,United States of America,human
+117,Azerbaijan,diplomatic relation,Japan,"landlocked country, administrative territorial entity, sovereign state, country"
+118,Argentina,diplomatic relation,Switzerland,"country, sovereign state"
+119,Nauru,diplomatic relation,Russia,"island nation, sovereign state, country"
+120,Tracy Chapman,ethnic group,African Americans,human
+121,Angola,member of,Interpol,"sovereign state, country"
+122,David Ogden Stiers,occupation,television actor,human
+123,Switzerland,member of,Australia Group,"confederation, federal state, Helvetic Republic, sovereign state, Federal Treaty, landlocked country, sovereign state, country"
+124,Rudyard Kipling,"languages spoken, written, or signed",English,human
+125,Sweden,member of,International Development Association,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+126,Edmund White,occupation,biographer,human
+127,Jonathan Swift,occupation,science fiction writer,human
+128,Singapore,diplomatic relation,Taiwan,"city, island nation, port settlement, country, city-state, sovereign state, big city, city with millions of inhabitants"
+129,Bahrain,member of,International Telecommunication Union,"country, sovereign state, island nation"
+130,Frank Sinatra,occupation,jazz musician,human
+131,Georg Christoph Lichtenberg,"languages spoken, written, or signed",German,human
+132,Suriname,member of,Organisation for the Prohibition of Chemical Weapons,"colony, sovereign state, country"
+133,Malaysia,diplomatic relation,Algeria,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+134,Tunisia,member of,Group on Earth Observations,"Mediterranean country, country, sovereign state, republic"
+135,Lebanon,diplomatic relation,United States of America,"sovereign state, Mediterranean country, country"
+136,Algeria,diplomatic relation,Georgia,"sovereign state, country, Mediterranean country"
+137,Singapore,diplomatic relation,Armenia,"city, island nation, port settlement, country, city-state, sovereign state, big city, city with millions of inhabitants"
+138,Karl Popper,country of citizenship,Austria-Hungary,human
+139,Raymond Aron,occupation,writer,human
+140,August Schleicher,occupation,university teacher,human
+141,Ross Bagdasarian Sr.,instrument,voice,human
+142,Abraham Gotthelf Kästner,occupation,physicist,human
+143,Togo,diplomatic relation,Taiwan,"country, republic, sovereign state"
+144,Jô Soares,occupation,presenter,human
+145,Wolfgang Schadewaldt,occupation,translator,human
+146,Seychelles,diplomatic relation,India,"country, republic, sovereign state, island nation"
+147,Melissa Auf der Maur,genre,rock music,human
+148,Madonna,instrument,voice,human
+149,Johnny Hallyday,country of citizenship,France,human
+150,Nikolai Gogol,genre,prose,human
+151,Steven Weinberg,member of,National Academy of Sciences,human
+152,Harald Lesch,occupation,television presenter,human
+153,Richard Wright,"languages spoken, written, or signed",English,human
+154,Swizz Beatz,genre,rhythm and blues,human
+155,Joni Mitchell,occupation,songwriter,human
+156,Alice Walker,occupation,university teacher,human
+157,Fyodor Dostoyevsky,influenced by,Nikolai Gogol,human
+158,Cape Verde,member of,World Trade Organization,"island nation, country, sovereign state"
+159,Rainer Werner Fassbinder,country of citizenship,Germany,human
+160,United States of America,diplomatic relation,Marshall Islands,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+161,Parlophone,genre,jazz,"trademark, record label, imprint"
+162,Paul Dirac,occupation,engineer,human
+163,Walter Benjamin,occupation,writer,human
+164,Poland,diplomatic relation,Italy,"sovereign state, country, countries bordering the Baltic Sea"
+165,Moritz von Jacobi,member of,Academy of Sciences of Turin,human
+166,David Lindley,record label,Epic,human
+167,Neil Gaiman,occupation,author,human
+168,Namibia,diplomatic relation,Malaysia,"sovereign state, country, republic"
+169,Joan Baez,field of work,musical composition,human
+170,Afghanistan,religion,Islam,"landlocked country, Islamic republic, country, sovereign state"
+171,Armenia,continent,Asia,"landlocked country, sovereign state, country"
+172,Alicia Keys,record label,Columbia Records,human
+173,Germany,diplomatic relation,Republic of the Congo,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+174,Hermann Usener,occupation,linguist,human
+175,Democratic Republic of the Congo,diplomatic relation,Canada,"country, sovereign state"
+176,Turkey,diplomatic relation,Philippines,"Mediterranean country, transcontinental country, country, sovereign state"
+177,Gottfried Wilhelm Leibniz,member of,Royal Society,human
+178,Michail Sholokhov,ethnic group,Russians,human
+179,Belgium,diplomatic relation,Malaysia,"country, sovereign state, colonial power, federal state"
+180,Syria,diplomatic relation,Japan,"colony, country, Mediterranean country, sovereign state"
+181,Laurie Anderson,place of birth,Chicago,human
+182,Léo Ferré,occupation,radio personality,human
+183,Lars Onsager,country of citizenship,Kingdom of the Netherlands,human
+184,Avril Lavigne,instrument,piano,human
+185,John Denver,occupation,singer-songwriter,human
+186,Bhutan,member of,Multilateral Investment Guarantee Agency,"sovereign state, country, landlocked country"
+187,Estonia,member of,Organisation for Economic Cooperation and Development,"sovereign state, country, sovereign state, unitary state, republic, countries bordering the Baltic Sea"
+188,Whoopi Goldberg,occupation,singer-songwriter,human
+189,Joan Jett,instrument,voice,human
+190,Heinrich Heine,place of death,Paris,human
+191,Alberto Manguel,occupation,writer,human
+192,Dudley Moore,occupation,composer,human
+193,David A. Stewart,occupation,musician,human
+194,Mike Myers,instrument,voice,human
+195,Fiji,member of,International Centre for Settlement of Investment Disputes,"unitary state, sovereign state, island nation, archipelagic state, country"
+196,Joseph Louis Gay-Lussac,occupation,physicist,human
+197,Leonid Leonov,country of citizenship,Russian Empire,human
+198,Canada,member of,Group on Earth Observations,"sovereign state, Commonwealth realm, country, dominion of the British Empire"
+199,Daniel Johnston,cause of death,myocardial infarction,human
+200,Thomas Carlyle,field of work,philosophy,human
+201,Augustin-Louis Cauchy,employer,University of Paris (1896-1968),human
+202,Peter Tork,occupation,songwriter,human
+203,Maldives,member of,International Development Association,"sovereign state, country, island nation"
+204,Gabriel Marcel,country of citizenship,France,human
+205,Janet Jackson,sibling,Jackie Jackson,human
+206,Judd Apatow,ethnic group,American Jews,human
+207,Frank Sinatra,occupation,film producer,human
+208,Yasmina Reza,occupation,film actor,human
+209,Nyusha,genre,contemporary R&B,human
+210,Luxembourg,diplomatic relation,United States of America,"country, landlocked country, sovereign state, grand duchy, unitary state"
+211,Jerry Garcia,country of citizenship,United States of America,human
+212,Denmark,diplomatic relation,Slovenia,"colonial power, state, sovereign state, country, autonomous country within the Kingdom of Denmark, countries bordering the Baltic Sea"
+213,Béla Bartók,instrument,piano,human
+214,Poland,member of,International Bank for Reconstruction and Development,"sovereign state, country, countries bordering the Baltic Sea"
+215,Italy,diplomatic relation,India,"republic, unitary state, social state, Mediterranean country, sovereign state, country"
+216,Charlotte Gainsbourg,place of birth,London,human
+217,Serbia,diplomatic relation,Pakistan,"republic, sovereign state, landlocked country, country"
+218,Jean-Luc Godard,occupation,actor,human
+219,Germany,diplomatic relation,Botswana,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+220,George Santayana,"languages spoken, written, or signed",Spanish,human
+221,Vladimir Vysotsky,occupation,composer,human
+222,Tito Jackson,occupation,musician,human
+223,Zoë Kravitz,ethnic group,African Americans,human
+224,Ernst Curtius,occupation,archaeologist,human
+225,Anatoly Krupnov,occupation,actor,human
+226,Selena,occupation,film actor,human
+227,James Clerk Maxwell,occupation,theoretical physicist,human
+228,Niger,member of,United Nations,"republic, sovereign state, country, landlocked country"
+229,Germany,diplomatic relation,Namibia,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+230,Kenny Rogers,country of citizenship,United States of America,human
+231,David Hasselhoff,occupation,film producer,human
+232,Charles Aznavour,occupation,composer,human
+233,Sergey Kuryokhin,occupation,producer,human
+234,Rob Zombie,occupation,film director,human
+235,James Brown,occupation,pianist,human
+236,Prince,genre,hip hop music,human
+237,Saudi Arabia,diplomatic relation,Maldives,"sovereign state, country"
+238,Ursula K. Le Guin,influenced by,Jorge Luis Borges,human
+239,Melissa Auf der Maur,occupation,model,human
+240,Kinky Friedman,member of political party,Republican Party,human
+241,Montesquieu,country of citizenship,France,human
+242,Burton Cummings,instrument,voice,human
+243,Joe Cocker,occupation,singer,human
+244,Philippines,diplomatic relation,Sweden,"country, archipelagic state, sovereign state"
+245,Ricky Martin,"languages spoken, written, or signed",English,human
+246,Lenny Kravitz,occupation,guitarist,human
+247,Samoa,member of,"""African, Caribbean and Pacific Group of States""","country, sovereign state, island nation"
+248,Steven Van Zandt,genre,hard rock,human
+249,John de Lancie,occupation,singer,human
+250,Lionel Richie,instrument,piano,human
+251,Chord Overstreet,occupation,singer,human
+252,Gilles Deleuze,educated at,University of Paris (1896-1968),human
+253,Sarah Brightman,occupation,dancer,human
+254,Ayumi Hamasaki,occupation,lyricist,human
+255,Heinrich Wilhelm Olbers,member of,American Academy of Arts and Sciences,human
+256,Willie Nelson,occupation,television actor,human
+257,Konstantin Simonov,occupation,playwright,human
+258,Sonny Bono,occupation,singer,human
+259,Antonin Artaud,occupation,film actor,human
+260,Don Rickles,country of citizenship,United States of America,human
+261,Lance Bass,occupation,autobiographer,human
+262,Tunisia,member of,International Centre for Settlement of Investment Disputes,"Mediterranean country, country, sovereign state, republic"
+263,Leonid Leonov,occupation,politician,human
+264,Indonesia,diplomatic relation,Egypt,"archipelagic state, country, constitutional republic, island nation, sovereign state, presidential system"
+265,Ralph Waldo Emerson,occupation,biographer,human
+266,Republic of the Congo,member of,International Centre for Settlement of Investment Disputes,"administrative territorial entity, country, sovereign state"
+267,Dalida,place of death,Paris,human
+268,West Germany,member of,United Nations,"sovereign state, historical country"
+269,Neil Young,record label,Geffen Records,human
+270,Jackie Jackson,record label,Motown,human
+271,Slovenia,diplomatic relation,Moldova,"country, Mediterranean country, sovereign state"
+272,Bhutan,member of,International Finance Corporation,"sovereign state, country, landlocked country"
+273,Kosovo,diplomatic relation,Pakistan,"country, state with limited recognition, landlocked country, unitary state, Slavs"
+274,Bryan Ferry,occupation,film actor,human
+275,Masiela Lusha,occupation,singer,human
+276,David Byrne,occupation,singer-songwriter,human
+277,Count Basie,occupation,actor,human
+278,William Dean Howells,occupation,writer,human
+279,Cuba,diplomatic relation,Saudi Arabia,"country, island nation, communist state, sovereign state, unitary state"
+280,Victor Ambartsumian,member of,American Academy of Arts and Sciences,human
+281,Haruki Murakami,occupation,university teacher,human
+282,Khloé Kardashian,occupation,writer,human
+283,Iran,member of,Multilateral Investment Guarantee Agency,"Islamic republic, sovereign state, country"
+284,"George Porter, Baron Porter of Luddenham",educated at,University of Cambridge,human
+285,Central African Republic,diplomatic relation,Qatar,"sovereign state, country, landlocked country"
+286,Belize,member of,Multilateral Investment Guarantee Agency,"country, sovereign state, Commonwealth realm"
+287,Ecuador,member of,International Development Association,"country, sovereign state"
+288,Raymond Aron,place of death,Paris,human
+289,Herbert Grönemeyer,occupation,composer,human
+290,Sarah McLachlan,occupation,multi-instrumentalist,human
+291,Isaac Asimov,educated at,Columbia University,human
+292,Jô Soares,"languages spoken, written, or signed",Spanish,human
+293,Finland,member of,Schengen Area,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+294,Honduras,member of,International Telecommunication Union,"country, sovereign state"
+295,Olivier Messiaen,occupation,musician,human
+296,Milva,occupation,singer,human
+297,Allan Sherman,instrument,voice,human
+298,United States of America,diplomatic relation,Switzerland,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+299,Poland,diplomatic relation,Denmark,"sovereign state, country, countries bordering the Baltic Sea"
+300,Ghana,member of,Universal Postal Union,"country, sovereign state"
+301,Glen Campbell,occupation,musician,human
+302,David Bowie,record label,RCA Records,human
+303,Shannon Leto,record label,Virgin Records,human
+304,Chris Brown,occupation,songwriter,human
+305,Brigitte Bardot,place of birth,Paris,human
+306,Heinrich Wilhelm Gottfried von Waldeyer-Hartz,member of,German Academy of Sciences Leopoldina,human
+307,Trinidad and Tobago,diplomatic relation,Germany,"unitary state, sovereign state, island nation, country"
+308,Bahrain,member of,UNESCO,"country, sovereign state, island nation"
+309,Aram Khachaturian,member of political party,Communist Party of the Soviet Union,human
+310,Lea Salonga,record label,Sony Music,human
+311,D. H. Lawrence,country of citizenship,United Kingdom,human
+312,Gilles Deleuze,occupation,writer,human
+313,Daniel Handler,occupation,musician,human
+314,Denmark,diplomatic relation,Benin,"colonial power, state, sovereign state, country, autonomous country within the Kingdom of Denmark, countries bordering the Baltic Sea"
+315,Pierre-Simon Laplace,place of burial,Montparnasse Cemetery,human
+316,Julie Delpy,field of work,musical composition,human
+317,Whitney Houston,spouse,Bobby Brown,human
+318,Don DeLillo,occupation,essayist,human
+319,Suzi Quatro,place of birth,Detroit,human
+320,David Bowie,occupation,vocalist,human
+321,Gotthold Ephraim Lessing,member of,Royal Prussian Academy of Sciences,human
+322,Arthur C. Clarke,ethnic group,English people,human
+323,John Maynard Keynes,occupation,professor,human
+324,Peter Lorre,place of death,Los Angeles,human
+325,Richard Sennett,place of birth,Chicago,human
+326,François Arago,member of,American Academy of Arts and Sciences,human
+327,Carrie Fisher,unmarried partner,Paul Simon,human
+328,Sacha Baron Cohen,country of citizenship,United Kingdom,human
+329,Taiwan,diplomatic relation,Liberia,"democratic republic, island nation, state with limited recognition"
+330,Bob Dylan,occupation,autobiographer,human
+331,Joan Rivers,occupation,film actor,human
+332,Argentina,diplomatic relation,Australia,"country, sovereign state"
+333,Charlie Chaplin,occupation,film producer,human
+334,Saul Bellow,occupation,university teacher,human
+335,will.i.am,occupation,guitarist,human
+336,Jessica Simpson,genre,country music,human
+337,Marcellin Berthelot,member of,Académie Française,human
+338,John Maynard Keynes,occupation,diplomat,human
+339,Sean Combs,record label,Arista,human
+340,Greece,diplomatic relation,Zimbabwe,"Mediterranean country, unitary state, sovereign state, republic, country, member state of the European Union"
+341,Carl Djerassi,place of birth,Vienna,human
+342,Johann Wolfgang von Goethe,member of,Bavarian Academy of Sciences and Humanities,human
+343,Snoop Dogg,genre,hip hop music,human
+344,Greece,diplomatic relation,Argentina,"Mediterranean country, unitary state, sovereign state, republic, country, member state of the European Union"
+345,Leonard Nimoy,occupation,writer,human
+346,Honduras,member of,Organization of American States,"country, sovereign state"
+347,Cat Stevens,"languages spoken, written, or signed",English,human
+348,Boris Grebenshchikov,occupation,multi-instrumentalist,human
+349,Mongolia,diplomatic relation,France,"sovereign state, country, landlocked country"
+350,Maxim Gorki,residence,Saint Petersburg,human
+351,Italy,member of,Universal Postal Union,"republic, unitary state, social state, Mediterranean country, sovereign state, country"
+352,Colombia,member of,Multilateral Investment Guarantee Agency,"republic, country, sovereign state, secular state"
+353,David Byrne,instrument,guitar,human
+354,Nepal,diplomatic relation,Russia,"sovereign state, landlocked country, country, geographic region"
+355,Katy Perry,record label,Columbia Records,human
+356,Valeriya Novodvorskaya,residence,Belarus,human
+357,Nena,occupation,singer-songwriter,human
+358,Charles Mingus Jr.,genre,jazz,human
+359,Sun Ra,occupation,pianist,human
+360,Ján Kollár,occupation,poet,human
+361,Samuel R. Delany,religion,atheism,human
+362,Herbie Hancock,occupation,musician,human
+363,United Kingdom,member of,International Development Association,"island nation, sovereign state, colonial power, country, Commonwealth realm"
+364,Jada Pinkett Smith,occupation,writer,human
+365,Ivan Goncharov,occupation,writer,human
+366,Thomas Mann,occupation,essayist,human
+367,Bob Dylan,member of,"Academy of Arts, Berlin",human
+368,John Mayer,genre,contemporary folk music,human
+369,Bill Haley,occupation,songwriter,human
+370,Thomas Carlyle,occupation,writer,human
+371,Leo Strauss,employer,University of Cambridge,human
+372,India,member of,International Telecommunication Union,"dominion of the British Empire, sovereign state, republic, country"
+373,Spain,diplomatic relation,Argentina,"sovereign state, colonial power, country, Mediterranean country, member state of the European Union, realm"
+374,Ukraine,diplomatic relation,Croatia,"social state, sovereign state, republic, legal state, unitary state, country"
+375,Ivan Goncharov,occupation,novelist,human
+376,Michael Mann,country of citizenship,United States of America,human
+377,Benjamin Franklin,occupation,librarian,human
+378,Armenia,diplomatic relation,France,"landlocked country, sovereign state, country"
+379,Burkina Faso,member of,Organisation for the Prohibition of Chemical Weapons,"landlocked country, sovereign state, country"
+380,Raven-Symoné,record label,MCA Records,human
+381,Joseph Brodsky,"languages spoken, written, or signed",Russian,human
+382,John Legend,occupation,singer,human
+383,Miley Cyrus,occupation,musician,human
+384,Georgia,diplomatic relation,Kiribati,"republic, unitary state, legal state, sovereign state, country"
+385,Willie Nelson,record label,Island Records,human
+386,Andy Williams,occupation,television presenter,human
+387,Ulf Ekberg,occupation,entrepreneur,human
+388,Nick Jonas,genre,rock music,human
+389,Geddy Lee,genre,rock music,human
+390,György Ligeti,country of citizenship,Austria,human
+391,Simone de Beauvoir,field of work,philosophy,human
+392,Günther Anders,place of death,Vienna,human
+393,Pierre-Simon Laplace,member of,Accademia Nazionale delle Scienze detta dei XL,human
+394,Ian McEwan,religion,atheism,human
+395,Wiz Khalifa,occupation,film actor,human
+396,Adam Lambert,occupation,stage actor,human
+397,David Mamet,occupation,writer,human
+398,Adolf Erik Nordenskiöld,member of,Academy of Sciences of Turin,human
+399,James Maslow,occupation,producer,human
+400,Kenya,diplomatic relation,Russia,"country, sovereign state"
+401,Yuri Shevchuk,genre,experimental rock,human
+402,Kuwait,diplomatic relation,Republic of Cyprus,"country, sovereign state, sovereign state"
+403,Kiely Williams,occupation,composer,human
+404,Taiwan,diplomatic relation,Malta,"democratic republic, island nation, state with limited recognition"
+405,Herman Melville,occupation,essayist,human
+406,Liberace,occupation,film actor,human
+407,Alla Pugacheva,instrument,piano,human
+408,Malaysia,member of,International Bank for Reconstruction and Development,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+409,Belgium,diplomatic relation,Pakistan,"country, sovereign state, colonial power, federal state"
+410,Katy Perry,record label,Island Records,human
+411,Gloria Estefan,record label,Epic,human
+412,Peter Handke,occupation,writer,human
+413,Jaroslav Vrchlický,occupation,politician,human
+414,Stefan Zweig,place of birth,Vienna,human
+415,Thomas Carlyle,"languages spoken, written, or signed",English,human
+416,Sebastian Haffner,occupation,television presenter,human
+417,Felix Klein,country of citizenship,Weimar Republic,human
+418,Anton Chekhov,medical condition,tuberculosis,human
+419,Harry Connick Jr.,occupation,voice actor,human
+420,Kyle Gass,occupation,singer,human
+421,Mongolia,diplomatic relation,Germany,"sovereign state, country, landlocked country"
+422,Saint Kitts and Nevis,member of,Alliance of Small Island States,"state, country, island nation, sovereign state, Commonwealth realm"
+423,Romania,member of,International Centre for Settlement of Investment Disputes,"country, sovereign state"
+424,Romain Rolland,occupation,novelist,human
+425,Joseph-Louis Lagrange,member of,Royal Society,human
+426,Sun Ra,cause of death,pneumonia,human
+427,Turkey,diplomatic relation,Georgia,"Mediterranean country, transcontinental country, country, sovereign state"
+428,Paraguay,part of,Hispanic America,"country, landlocked country, sovereign state, republic"
+429,Jerry Lewis,occupation,singer-songwriter,human
+430,Galileo Galilei,occupation,scientist,human
+431,Lana Del Rey,occupation,guitarist,human
+432,Nat King Cole,occupation,pianist,human
+433,Ringo Starr,religion,Christianity,human
+434,François Guizot,occupation,translator,human
+435,Viggo Mortensen,occupation,musician,human
+436,Redman,"languages spoken, written, or signed",English,human
+437,Germany,diplomatic relation,South Korea,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+438,Mickey Rooney,occupation,radio personality,human
+439,Idina Menzel,occupation,stage actor,human
+440,Dean Martin,place of death,Beverly Hills,human
+441,Jacques Derrida,occupation,university teacher,human
+442,Miranda Cosgrove,occupation,film actor,human
+443,Franco Battiato,occupation,film director,human
+444,Edward Sabine,member of,Russian Academy of Sciences,human
+445,Mikhail Bulgakov,genre,science fiction,human
+446,Sean Lennon,occupation,poet,human
+447,Raymond Scott,occupation,inventor,human
+448,Turkey,diplomatic relation,Finland,"Mediterranean country, transcontinental country, country, sovereign state"
+449,Arthur Schopenhauer,influenced by,Johann Wolfgang von Goethe,human
+450,Netherlands,diplomatic relation,Russia,"country, country of the Kingdom of the Netherlands"
+451,Israel,member of,Group on Earth Observations,"country, sovereign state, Mediterranean country"
+452,Bulgaria,diplomatic relation,Czech Republic,"country, unitary state, sovereign state"
+453,Walt Disney,medical condition,lung cancer,human
+454,Belgium,member of,UNESCO,"country, sovereign state, colonial power, federal state"
+455,Sarah Brightman,instrument,voice,human
+456,Brazil,diplomatic relation,State of Palestine,"sovereign state, secular state, country, legal state"
+457,Heinrich Rudolf Hertz,occupation,engineer,human
+458,Crispin Glover,occupation,film director,human
+459,Dmitri Shostakovich,occupation,librettist,human
+460,Camille Saint-Saëns,movement,classical music,human
+461,Peter Kropotkin,occupation,geographer,human
+462,Cass Elliot,"languages spoken, written, or signed",English,human
+463,T-Bone Walker,occupation,songwriter,human
+464,Curtis Mayfield,occupation,pianist,human
+465,Denmark,member of,NATO,"colonial power, state, sovereign state, country, autonomous country within the Kingdom of Denmark, countries bordering the Baltic Sea"
+466,Redman,occupation,songwriter,human
+467,AJ Michalka,"languages spoken, written, or signed",English,human
+468,Sidney Poitier,time period,20th century,human
+469,Victor Hugo,occupation,poet,human
+470,Samoa,diplomatic relation,Taiwan,"country, sovereign state, island nation"
+471,Slavoj Žižek,occupation,university teacher,human
+472,Saudi Arabia,member of,Arab League,"sovereign state, country"
+473,Mohandas Karamchand Gandhi,occupation,peace activist,human
+474,Frank Wedekind,occupation,playwright,human
+475,Karel Jaromír Erben,occupation,prosaist,human
+476,Barbados,head of state,Elizabeth II,"sovereign state, Commonwealth realm, country, island nation"
+477,Gackt,occupation,screenwriter,human
+478,Mika,"languages spoken, written, or signed",English,human
+479,Philip Pullman,occupation,playwright,human
+480,Gottfried Wilhelm Leibniz,occupation,engineer,human
+481,Charles Aznavour,"languages spoken, written, or signed",German,human
+482,Ignaz Moscheles,ethnic group,Jewish people,human
+483,Bangladesh,diplomatic relation,Belarus,"country, sovereign state"
+484,Robin Gibb,cause of death,cancer,human
+485,Felix Mendelssohn,member of,Royal Netherlands Academy of Arts and Sciences,human
+486,Antonin Artaud,occupation,playwright,human
+487,Günther Anders,member of,"Academy of Arts, Berlin",human
+488,Jimmy Buffett,occupation,actor,human
+489,Enrique Iglesias,country of citizenship,Spain,human
+490,Taiwan,diplomatic relation,Dominica,"democratic republic, island nation, state with limited recognition"
+491,Konstantin Simonov,occupation,writer,human
+492,Estonia,diplomatic relation,Italy,"sovereign state, country, sovereign state, unitary state, republic, countries bordering the Baltic Sea"
+493,United States of America,diplomatic relation,Italy,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+494,Richard Dawkins,country of citizenship,United Kingdom,human
+495,Donny Osmond,genre,pop rock,human
+496,Mark Oliver Everett,instrument,guitar,human
+497,Tamer Hosny,occupation,singer-songwriter,human
+498,Vincent Gallo,occupation,model,human
+499,Yvonne De Carlo,occupation,dancer,human
+500,W. H. Auden,spouse,Erika Mann,human
+501,Switzerland,member of,Council of Europe,"confederation, federal state, Helvetic Republic, sovereign state, Federal Treaty, landlocked country, sovereign state, country"
+502,Claude Lévi-Strauss,member of,National Academy of Sciences,human
+503,Jolin Tsai,record label,Universal Music Group,human
+504,United States of America,diplomatic relation,Libya,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+505,Soviet Union,diplomatic relation,Pakistan,"sovereign state, transcontinental country, historical country, communist state, federal republic, supranational union, socialist state"
+506,Hermann Usener,"languages spoken, written, or signed",German,human
+507,Kiely Williams,genre,alternative rock,human
+508,Slavoj Žižek,influenced by,G. K. Chesterton,human
+509,Debbie Harry,occupation,singer,human
+510,Helge Schneider,occupation,pianist,human
+511,Richard Sennett,occupation,university teacher,human
+512,Bob Dylan,influenced by,Woody Guthrie,human
+513,Melanie Brown,occupation,television presenter,human
+514,Alexis de Tocqueville,occupation,sociologist,human
+515,Myanmar,member of,Multilateral Investment Guarantee Agency,"sovereign state, country"
+516,Jada Pinkett Smith,occupation,singer-songwriter,human
+517,Corbin Bleu,occupation,film actor,human
+518,M.I.A.,occupation,songwriter,human
+519,Henri Becquerel,employer,École Polytechnique,human
+520,Leonard Cohen,place of death,Los Angeles,human
+521,Richard Wright,country of citizenship,United Kingdom,human
+522,Singapore,diplomatic relation,Pakistan,"city, island nation, port settlement, country, city-state, sovereign state, big city, city with millions of inhabitants"
+523,Allen Ginsberg,occupation,photographer,human
+524,Eric Burdon,genre,rhythm and blues,human
+525,Julia Volkova,genre,synth-pop,human
+526,Billy Connolly,occupation,film actor,human
+527,Tara Strong,place of birth,Toronto,human
+528,Vladimir Putin,"languages spoken, written, or signed",Russian,human
+529,Peter Kropotkin,occupation,autobiographer,human
+530,Nick Cannon,occupation,voice actor,human
+531,Hungary,diplomatic relation,Greece,"country, landlocked country, sovereign state"
+532,Goldie Hawn,occupation,film actor,human
+533,CeeLo Green,occupation,singer-songwriter,human
+534,Eleanor Roosevelt,residence,"Washington, D.C.",human
+535,Ernst Curtius,place of death,Berlin,human
+536,Latvia,member of,Universal Postal Union,"republic, country, sovereign state, countries bordering the Baltic Sea"
+537,North Macedonia,diplomatic relation,Italy,"country, sovereign state, landlocked country"
+538,North Korea,diplomatic relation,Togo,"country, sovereign state"
+539,Moritz von Jacobi,occupation,engineer,human
+540,Samuel Beckett,occupation,artist,human
+541,Estonia,member of,Council of Europe,"sovereign state, country, sovereign state, unitary state, republic, countries bordering the Baltic Sea"
+542,Peru,member of,Multilateral Investment Guarantee Agency,"sovereign state, country"
+543,Eritrea,member of,"""African, Caribbean and Pacific Group of States""","republic, country, sovereign state"
+544,Debbie Reynolds,occupation,television actor,human
+545,Whitney Houston,record label,RCA Records,human
+546,Joyce Carol Oates,occupation,professor,human
+547,François-René de Chateaubriand,place of death,Paris,human
+548,Natasha Shneider,genre,alternative rock,human
+549,Rita Levi-Montalcini,member of,French Academy of Sciences,human
+550,Australia,diplomatic relation,Cameroon,"dominion of the British Empire, Commonwealth realm, sovereign state, country, federal state"
+551,Vladimir Obruchev,occupation,university teacher,human
+552,Janet Jackson,field of work,musical composition,human
+553,Bruce Springsteen,"languages spoken, written, or signed",English,human
+554,Shel Silverstein,occupation,writer,human
+555,Burundi,member of,International Centre for Settlement of Investment Disputes,"sovereign state, country, landlocked country"
+556,Albrecht von Haller,occupation,physician,human
+557,Netherlands,diplomatic relation,Italy,"country, country of the Kingdom of the Netherlands"
+558,Kuwait,member of,Arab Monetary Fund,"country, sovereign state, sovereign state"
+559,Burkina Faso,diplomatic relation,Russia,"landlocked country, sovereign state, country"
+560,Algeria,diplomatic relation,Serbia,"sovereign state, country, Mediterranean country"
+561,Seth MacFarlane,occupation,actor,human
+562,Janet Jackson,occupation,model,human
+563,Nigeria,member of,International Development Association,"sovereign state, country"
+564,"Robert Downey, Jr.","languages spoken, written, or signed",English,human
+565,Mikhail Vassilyevich Lomonosov,country of citizenship,Russian Empire,human
+566,South Africa,continent,Africa,"sovereign state, country"
+567,Rihanna,occupation,businessperson,human
+568,John von Neumann,country of citizenship,Hungary,human
+569,Mary J. Blige,occupation,singer-songwriter,human
+570,Johann Christian Poggendorff,member of,Bavarian Academy of Sciences and Humanities,human
+571,Paraguay,diplomatic relation,Israel,"country, landlocked country, sovereign state, republic"
+572,Max Brod,occupation,novelist,human
+573,Percy Bysshe Shelley,occupation,linguist,human
+574,Friedrich Carl von Savigny,educated at,Leipzig University,human
+575,Austria,diplomatic relation,Moldova,"country, state, legal state, republic, landlocked country, sovereign state"
+576,AJ Michalka,occupation,singer-songwriter,human
+577,Eleanor Roosevelt,occupation,diplomat,human
+578,Jack Black,occupation,guitarist,human
+579,Steven Tyler,instrument,voice,human
+580,Spain,member of,International Energy Agency,"sovereign state, colonial power, country, Mediterranean country, member state of the European Union, realm"
+581,Keith Richards,genre,rhythm and blues,human
+582,Jacques Brel,occupation,screenwriter,human
+583,Michael Jackson,genre,dance music,human
+584,Central African Republic,diplomatic relation,Nigeria,"sovereign state, country, landlocked country"
+585,Carrie Underwood,occupation,film actor,human
+586,Cass Elliot,occupation,actor,human
+587,Meat Loaf,record label,Mercury Records,human
+588,M. Pokora,"languages spoken, written, or signed",English,human
+589,Irving Berlin,occupation,songwriter,human
+590,Henry Kissinger,religion,Judaism,human
+591,Henri Bergson,field of work,philosophy,human
+592,Willie Nelson,residence,Nashville,human
+593,Slovenia,continent,Europe,"country, Mediterranean country, sovereign state"
+594,"Robert Downey, Jr.",occupation,screenwriter,human
+595,Telly Savalas,occupation,singer,human
+596,Marshall Islands,member of,Asian Development Bank,"sovereign state, country, island nation"
+597,Theodor Mommsen,country of citizenship,German Empire,human
+598,United States of America,head of state,Donald Trump,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+599,Marguerite Duras,field of work,performing arts,human
+600,Mikhail Bakunin,occupation,writer,human
+601,Slavoj Žižek,"languages spoken, written, or signed",French,human
+602,Edward Said,employer,Columbia University,human
+603,Maya Angelou,occupation,television producer,human
+604,Equatorial Guinea,member of,Organisation for the Prohibition of Chemical Weapons,"Portuguese Empire, sovereign state, country"
+605,Robert Penn Warren,educated at,"""University of California, Berkeley""",human
+606,Gaspard Monge,occupation,engineer,human
+607,John Updike,occupation,writer,human
+608,Ecuador,member of,International Hydrographic Organization,"country, sovereign state"
+609,MC Hammer,genre,gospel music,human
+610,Nepal,member of,International Bank for Reconstruction and Development,"sovereign state, landlocked country, country, geographic region"
+611,Justin Bieber,occupation,guitarist,human
+612,Avril Lavigne,genre,pop rock,human
+613,Václav Havel,member of,Deutsche Akademie für Sprache und Dichtung,human
+614,Nelly Furtado,occupation,musician,human
+615,Central African Republic,diplomatic relation,Morocco,"sovereign state, country, landlocked country"
+616,Frank Zappa,instrument,bass guitar,human
+617,LeToya Luckett,occupation,singer-songwriter,human
+618,Léo Ferré,instrument,piano,human
+619,Phil Harris,occupation,voice actor,human
+620,Mario Vargas Llosa,occupation,university teacher,human
+621,Ernst Troeltsch,country of citizenship,Germany,human
+622,Lesotho,official language,English,"enclave, country, landlocked country, sovereign state"
+623,"Georges-Louis Leclerc, Comte de Buffon",occupation,botanist,human
+624,Georg Forster,occupation,journalist,human
+625,Suriname,diplomatic relation,United States of America,"colony, sovereign state, country"
+626,Soulja Boy,country of citizenship,United States of America,human
+627,Tamer Hosny,occupation,record producer,human
+628,Vincent Gallo,occupation,film editor,human
+629,Bernard-Henri Lévy,influenced by,Jean-Paul Sartre,human
+630,Fyodor Dostoyevsky,ethnic group,Russians,human
+631,Nicolae Iorga,occupation,poet,human
+632,Billy Crystal,occupation,stage actor,human
+633,Robin Thicke,place of birth,Los Angeles,human
+634,Hong Kong,diplomatic relation,India,"special administrative region of China, city, human settlement, metropolitan area, big city, city with millions of inhabitants"
+635,Robin Gibb,country of citizenship,United Kingdom,human
+636,Method Man,country of citizenship,United States of America,human
+637,Fergie,occupation,television actor,human
+638,Bobby Brown,occupation,actor,human
+639,Serbia,diplomatic relation,Ecuador,"republic, sovereign state, landlocked country, country"
+640,"John William Strutt, 3rd Baron Rayleigh",country of citizenship,United Kingdom of Great Britain and Ireland,human
+641,Prince,occupation,record producer,human
+642,Taiwan,diplomatic relation,Ethiopia,"democratic republic, island nation, state with limited recognition"
+643,Rainer Werner Fassbinder,"languages spoken, written, or signed",English,human
+644,Mick Ronson,occupation,songwriter,human
+645,Yuri Shevchuk,"languages spoken, written, or signed",Russian,human
+646,United States of America,diplomatic relation,Samoa,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+647,Telly Savalas,country of citizenship,United States of America,human
+648,France,diplomatic relation,Andorra,"country, colonial power, sovereign state, Mediterranean country"
+649,Shel Silverstein,record label,Columbia Records,human
+650,Donald Knuth,member of,Russian Academy of Sciences,human
+651,Kenya,member of,International Finance Corporation,"country, sovereign state"
+652,Solomon Islands,member of,Commonwealth of Nations,"country, island nation, Commonwealth realm, sovereign state"
+653,Heinrich Wilhelm Olbers,member of,Bavarian Academy of Sciences and Humanities,human
+654,Anatole Abragam,"languages spoken, written, or signed",French,human
+655,Harry Shearer,occupation,voice actor,human
+656,Avril Lavigne,genre,alternative rock,human
+657,Ukraine,diplomatic relation,Canada,"social state, sovereign state, republic, legal state, unitary state, country"
+658,Lebanon,member of,International Bank for Reconstruction and Development,"sovereign state, Mediterranean country, country"
+659,Afrika Bambaataa,genre,hip hop music,human
+660,Donald Knuth,occupation,university teacher,human
+661,"""Weird Al"" Yankovic",record label,RCA Records,human
+662,Kenya,member of,Universal Postal Union,"country, sovereign state"
+663,Camille Saint-Saëns,instrument,piano,human
+664,Gabriel Marcel,occupation,literary critic,human
+665,Benin,diplomatic relation,Denmark,"sovereign state, country"
+666,David Byrne,genre,new wave,human
+667,Whitney Houston,occupation,record producer,human
+668,Ursula K. Le Guin,occupation,children's writer,human
+669,Paul Krugman,occupation,university teacher,human
+670,Selena Gomez,occupation,actor,human
+671,Yoshiki,instrument,guitar,human
+672,India,diplomatic relation,North Korea,"dominion of the British Empire, sovereign state, republic, country"
+673,Turkey,diplomatic relation,Switzerland,"Mediterranean country, transcontinental country, country, sovereign state"
+674,Germany,member of,International Bank for Reconstruction and Development,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+675,East Timor,member of,International Bank for Reconstruction and Development,"country, island nation, sovereign state"
+676,Argentina,member of,International Telecommunication Union,"country, sovereign state"
+677,Alexander Emanuel Agassiz,educated at,Harvard University,human
+678,Armenia,diplomatic relation,Egypt,"landlocked country, sovereign state, country"
+679,Carl Peter Thunberg,occupation,university teacher,human
+680,Dmitri Shostakovich,place of death,Moscow,human
+681,Albrecht von Haller,occupation,librarian,human
+682,Lesotho,diplomatic relation,Germany,"enclave, country, landlocked country, sovereign state"
+683,Mary-Kate Olsen,occupation,singer,"human, twin"
+684,Ezra Pound,occupation,poet,human
+685,Spain,diplomatic relation,Brazil,"sovereign state, colonial power, country, Mediterranean country, member state of the European Union, realm"
+686,Swizz Beatz,record label,Epic,human
+687,Peter Debye,member of,Hungarian Academy of Sciences,human
+688,Karel Jaromír Erben,occupation,translator,human
+689,Vladimir Prelog,member of,Academy of Sciences of the USSR,human
+690,Turkey,member of,Interpol,"Mediterranean country, transcontinental country, country, sovereign state"
+691,Jason Derulo,occupation,actor,human
+692,Ross Bagdasarian Sr.,occupation,musician,human
+693,Marlon Jackson,sibling,Jackie Jackson,human
+694,Lemmy Kilmister,"languages spoken, written, or signed",English,human
+695,Aleksandr Solzhenitsyn,occupation,novelist,human
+696,Belarus,diplomatic relation,Croatia,"country, landlocked country, unitary state, republic, social state, sovereign state"
+697,RuPaul,"languages spoken, written, or signed",English,human
+698,Herbert Grönemeyer,country of citizenship,Germany,human
+699,Albert Einstein,"languages spoken, written, or signed",English,human
+700,Dominica,member of,"""African, Caribbean and Pacific Group of States""","country, sovereign state, island nation"
+701,Alice Walker,occupation,essayist,human
+702,Tori Amos,record label,Atlantic Records,human
+703,Kenya,diplomatic relation,Taiwan,"country, sovereign state"
+704,Marlene Dietrich,country of citizenship,United States of America,human
+705,Georgia,diplomatic relation,Turkey,"republic, unitary state, legal state, sovereign state, country"
+706,Albert Einstein,religion,agnosticism,human
+707,Pat Boone,occupation,singer,human
+708,Nikolay Semyonov,member of political party,Communist Party of the Soviet Union,human
+709,United Kingdom,diplomatic relation,Saint Kitts and Nevis,"island nation, sovereign state, colonial power, country, Commonwealth realm"
+710,Nelly,genre,hip hop music,human
+711,Tamer Hosny,occupation,entrepreneur,human
+712,Rebbie Jackson,instrument,voice,human
+713,Ben Elton,occupation,film actor,human
+714,Mexico,diplomatic relation,Bolivia,"country, sovereign state"
+715,Russia,ethnic group,Russians,"sovereign state, transcontinental country, legal state, country, secular state, great power, social state, countries bordering the Baltic Sea"
+716,Estonia,member of,International Telecommunication Union,"sovereign state, country, sovereign state, unitary state, republic, countries bordering the Baltic Sea"
+717,Franz Liszt,occupation,music pedagogue,human
+718,Billie Holiday,record label,Capitol Records,human
+719,Philippines,diplomatic relation,Soviet Union,"country, archipelagic state, sovereign state"
+720,Alicia Keys,"languages spoken, written, or signed",English,human
+721,Shel Silverstein,occupation,musician,human
+722,Ilya Ilf,country of citizenship,Russian Empire,human
+723,Jann Arden,occupation,television presenter,human
+724,Zimbabwe,member of,African Development Bank,"republic, landlocked country, country, sovereign state"
+725,Ralf Dahrendorf,occupation,political scientist,human
+726,Zdeněk Nejedlý,place of death,Prague,human
+727,Bud Spencer,country of citizenship,Kingdom of Italy,human
+728,Brad Delson,occupation,composer,human
+729,Ricky Martin,occupation,musician,human
+730,Jack Black,occupation,singer,human
+731,Zoolander,cast member,Paris Hilton,film
+732,Mauritius,member of,International Telecommunication Union,"island nation, country, geographic location, sovereign state, parliamentary republic, republic"
+733,Finland,member of,Organisation for Economic Cooperation and Development,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+734,Gotthold Ephraim Lessing,occupation,theologian,human
+735,Czech Republic,official language,Czech,"landlocked country, country, sovereign state"
+736,Chile,member of,Organisation for Economic Cooperation and Development,"sovereign state, country"
+737,Mýa,ethnic group,African Americans,human
+738,Connie Smith,occupation,composer,human
+739,Ronny Cox,country of citizenship,United States of America,human
+740,John Paul II,"languages spoken, written, or signed",Spanish,human
+741,Pierre-Simon Laplace,member of,Academy of Sciences of Turin,human
+742,Saint Lucia,member of,International Development Association,"Commonwealth realm, country, island nation, sovereign state"
+743,Wole Soyinka,employer,Yale University,human
+744,James Hetfield,occupation,record producer,human
+745,Germany,diplomatic relation,Ethiopia,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+746,Australia,diplomatic relation,New Zealand,"dominion of the British Empire, Commonwealth realm, sovereign state, country, federal state"
+747,Jimi Hendrix,occupation,record producer,human
+748,Malaysia,diplomatic relation,Ethiopia,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+749,Ireland,diplomatic relation,France,"sovereign state, country, island nation"
+750,Togo,member of,International Finance Corporation,"country, republic, sovereign state"
+751,Germany,diplomatic relation,Thailand,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+752,Saul Williams,occupation,television actor,human
+753,Ireland,member of,International Hydrographic Organization,"sovereign state, country, island nation"
+754,Burundi,continent,Africa,"sovereign state, country, landlocked country"
+755,Romania,diplomatic relation,Australia,"country, sovereign state"
+756,Portugal,member of,Interpol,"colonial power, sovereign state, country"
+757,Mick Jagger,genre,blues,human
+758,Zora Neale Hurston,"languages spoken, written, or signed",English,human
+759,Albert Einstein,member of,Royal Prussian Academy of Sciences,human
+760,Marcellin Berthelot,occupation,politician,human
+761,Brandy Norwood,occupation,film actor,human
+762,Dmitry Medvedev,occupation,lawyer,human
+763,Elfriede Jelinek,occupation,poet,human
+764,Goldie Hawn,"languages spoken, written, or signed",English,human
+765,G. K. Chesterton,educated at,University College London,human
+766,Honduras,member of,World Trade Organization,"country, sovereign state"
+767,J. Rodolfo Wilcock,occupation,linguist,human
+768,Dmitri Kabalevsky,"languages spoken, written, or signed",Russian,human
+769,Bill Monroe,time period,20th century,human
+770,AJ Michalka,country of citizenship,United States of America,human
+771,William Shatner,occupation,character actor,human
+772,Herbert Grönemeyer,genre,rock music,human
+773,Ivan Urgant,country of citizenship,Soviet Union,human
+774,John Cale,occupation,autobiographer,human
+775,Harold Pinter,occupation,poet,human
+776,Philip Roth,influenced by,William Faulkner,human
+777,George Tabori,"languages spoken, written, or signed",English,human
+778,Vanessa Carlton,genre,pop music,human
+779,Kurt Cobain,country of citizenship,United States of America,human
+780,Carl Djerassi,country of citizenship,Austria,human
+781,Ruslana,occupation,singer,human
+782,Benjamin Franklin,member of,American Philosophical Society,human
+783,Antigua and Barbuda,official language,English,"country, island nation, state, monarchy of Antigua and Barbuda, sovereign state, Commonwealth realm"
+784,Angola,diplomatic relation,Namibia,"sovereign state, country"
+785,William Shatner,occupation,writer,human
+786,Adam Lambert,genre,pop rock,human
+787,Paul Reiser,occupation,essayist,human
+788,Timbaland,occupation,rapper,human
+789,Jamie Foxx,occupation,actor,human
+790,Cher,record label,Warner Music Group,human
+791,Herman Francis Mark,member of,Hungarian Academy of Sciences,human
+792,Taylor Swift,occupation,songwriter,human
+793,Leipzig,continent,Europe,"independent city of Germany, urban district in Saxony, city, big city, major regional center, urban municipality of Germany"
+794,Andrea Bocelli,occupation,pianist,human
+795,Connie Francis,occupation,actor,human
+796,Hulk Hogan,genre,rock music,human
+797,Bette Midler,record label,Atlantic Records,human
+798,Malaysia,diplomatic relation,United States of America,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+799,Sweden,diplomatic relation,Finland,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+800,Václav Havel,country of citizenship,Czech Republic,human
+801,Rwanda,member of,Organisation internationale de la Francophonie,"country, republic, landlocked country, sovereign state"
+802,Simon Newcomb,member of,Royal Prussian Academy of Sciences,human
+803,George Carlin,occupation,composer,human
+804,Bing Crosby,cause of death,myocardial infarction,human
+805,Austria-Hungary,official language,Hungarian,"historical country, empire, real union, sovereign state"
+806,Andrey Gubin,occupation,record producer,human
+807,Australia,continent,Oceania,"dominion of the British Empire, Commonwealth realm, sovereign state, country, federal state"
+808,South Africa,member of,Missile Technology Control Regime,"sovereign state, country"
+809,Konstantin Simonov,country of citizenship,Soviet Union,human
+810,Russia,diplomatic relation,Japan,"sovereign state, transcontinental country, legal state, country, secular state, great power, social state, countries bordering the Baltic Sea"
+811,Wassily Kandinsky,country of citizenship,Soviet Union,human
+812,Wilhelm Grimm,member of,Royal Netherlands Academy of Arts and Sciences,human
+813,Sergey Lazarev,country of citizenship,Russia,human
+814,Israel,diplomatic relation,Republic of Cyprus,"country, sovereign state, Mediterranean country"
+815,Japan,member of,UNESCO,"island nation, sovereign state, country"
+816,Vladislav Krapivin,occupation,writer,human
+817,Master P,instrument,voice,human
+818,Switzerland,diplomatic relation,European Union,"confederation, federal state, Helvetic Republic, sovereign state, Federal Treaty, landlocked country, sovereign state, country"
+819,Jerry Lee Lewis,instrument,voice,human
+820,Dalida,country of citizenship,France,human
+821,Benjamin Franklin,member of,Saint Petersburg Academy of Sciences,human
+822,David Byrne,occupation,songwriter,human
+823,Donovan,genre,folk rock,human
+824,Kate Bush,occupation,recording artist,human
+825,Israel,diplomatic relation,Belgium,"country, sovereign state, Mediterranean country"
+826,Mickey Rooney,occupation,film actor,human
+827,Akiko Yano,genre,disco,human
+828,Karl Marx,occupation,economist,human
+829,Ruslana,occupation,record producer,human
+830,Graham Parker,record label,Mercury Records,human
+831,Kenya,part of,East Africa,"country, sovereign state"
+832,Jimmy Buffett,occupation,singer-songwriter,human
+833,Bette Midler,occupation,musician,human
+834,Peter Kropotkin,occupation,economist,human
+835,Germany,diplomatic relation,Philippines,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+836,Demi Lovato,"languages spoken, written, or signed",English,human
+837,Stendhal,occupation,autobiographer,"human, mononymous person"
+838,Pakistan,diplomatic relation,Morocco,"sovereign state, country"
+839,Michel Houellebecq,occupation,novelist,human
+840,Iraq,member of,Arab League,"sovereign state, country"
+841,Lily Allen,occupation,singer-songwriter,human
+842,Ciara,occupation,singer,human
+843,Oleg Skripka,country of citizenship,Ukraine,human
+844,Jaroslav Vrchlický,"languages spoken, written, or signed",German,human
+845,Hayley Kiyoko,occupation,television actor,human
+846,Barbara Mandrell,occupation,songwriter,human
+847,Brad Delson,occupation,lyricist,human
+848,John Updike,member of,American Academy of Arts and Sciences,human
+849,Bridgit Mendler,occupation,voice actor,human
+850,Seychelles,member of,Southern African Development Community,"country, republic, sovereign state, island nation"
+851,Joseph Louis Gay-Lussac,field of work,physics,human
+852,Meaghan Jette Martin,instrument,piano,human
+853,Belarus,diplomatic relation,Turkmenistan,"country, landlocked country, unitary state, republic, social state, sovereign state"
+854,Franz Miklosich,member of,Hungarian Academy of Sciences,human
+855,Angelina Jolie,place of birth,Los Angeles,human
+856,San Marino,diplomatic relation,United Kingdom,"microstate, enclave, sovereign state, landlocked country, country"
+857,Marshall Islands,member of,United Nations,"sovereign state, country, island nation"
+858,Truman Capote,occupation,author,human
+859,Herbert Grönemeyer,"languages spoken, written, or signed",German,human
+860,Oman,member of,Universal Postal Union,"country, sovereign state, sultanate"
+861,David Brewster,member of,American Academy of Arts and Sciences,human
+862,São Tomé and Príncipe,member of,UNESCO,"republic, island nation, sovereign state, country"
+863,Alexander Bogdanov,occupation,poet,human
+864,Yuri Vizbor,occupation,songwriter,human
+865,Zemfira,"languages spoken, written, or signed",Russian,human
+866,Gabriel García Márquez,influenced by,William Faulkner,human
+867,Jerry Lewis,occupation,television actor,human
+868,Qatar,diplomatic relation,European Union,"emirate, country, sovereign state"
+869,Senegal,member of,World Trade Organization,"legal state, administrative territorial entity, country, sovereign state, republic"
+870,Burkina Faso,diplomatic relation,Germany,"landlocked country, sovereign state, country"
+871,Joe Dassin,occupation,singer,human
+872,Taiwan,diplomatic relation,Equatorial Guinea,"democratic republic, island nation, state with limited recognition"
+873,Cambodia,member of,Universal Postal Union,"country, sovereign state"
+874,Tomáš Garrigue Masaryk,occupation,pedagogue,human
+875,Charles Babbage,member of,Bavarian Academy of Sciences and Humanities,human
+876,Al-Biruni,occupation,physicist,human
+877,Kid Cudi,country of citizenship,United States of America,human
+878,Jennifer Hudson,occupation,voice actor,human
+879,Joe Satriani,instrument,harmonica,human
+880,Ian McEwan,influenced by,John Updike,human
+881,Marcel Proust,place of death,Paris,human
+882,Chord Overstreet,country of citizenship,United States of America,human
+883,Nick Cannon,spouse,Mariah Carey,human
+884,Cuba,diplomatic relation,Solomon Islands,"country, island nation, communist state, sovereign state, unitary state"
+885,Isaac Asimov,genre,science fiction,human
+886,Anatoly Lunacharsky,occupation,literary critic,human
+887,Bob Seger,instrument,piano,human
+888,Marietta Shaginyan,"languages spoken, written, or signed",Russian,human
+889,North Korea,diplomatic relation,Burkina Faso,"country, sovereign state"
+890,Malaysia,member of,Asia-Pacific Economic Cooperation,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+891,Albert Szent-Györgyi,member of,National Academy of Sciences,human
+892,Thailand,member of,International Development Association,"constitutional monarchy, sovereign state, country"
+893,Malta,diplomatic relation,Turkey,"island nation, country, unitary state, Mediterranean country, sovereign state"
+894,Bill Haley,place of birth,Detroit,human
+895,Mircea Eliade,"languages spoken, written, or signed",English,human
+896,Afghanistan,member of,United Nations,"landlocked country, Islamic republic, country, sovereign state"
+897,Jerry Lewis,occupation,comedian,human
+898,Nikolay Semyonov,member of,Hungarian Academy of Sciences,human
+899,Michael Penn,genre,alternative rock,human
+900,Romania,diplomatic relation,Moldova,"country, sovereign state"
+901,Carl Djerassi,occupation,chemist,human
+902,Maldives,member of,World Trade Organization,"sovereign state, country, island nation"
+903,Kurt Vonnegut,occupation,playwright,human
+904,Mikhail Lermontov,country of citizenship,Russian Empire,human
+905,Philippines,diplomatic relation,Czech Republic,"country, archipelagic state, sovereign state"
+906,Monica,occupation,record producer,human
+907,Thomas Paine,occupation,prose,human
+908,Aleksandr Solzhenitsyn,occupation,writer,human
+909,Mikhail Zadornov,"languages spoken, written, or signed",Russian,human
+910,Guyana,member of,Organization of American States,"sovereign state, country"
+911,Vietnam,diplomatic relation,United States of America,"country, sovereign state, communist state"
+912,Malaysia,member of,Commonwealth of Nations,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+913,Romain Gary,country of citizenship,Poland,human
+914,Felix Mendelssohn,"languages spoken, written, or signed",French,human
+915,Ricky Martin,genre,pop rock,human
+916,Saudi Arabia,diplomatic relation,Cambodia,"sovereign state, country"
+917,Jay Chou,instrument,harmonica,human
+918,Rudolf Virchow,occupation,physician,human
+919,Australia,member of,UNESCO,"dominion of the British Empire, Commonwealth realm, sovereign state, country, federal state"
+920,Yehuda Amichai,employer,New York University,human
+921,Janet Jackson,occupation,composer,human
+922,James Taylor,genre,soft rock,human
+923,Neil Tennant,"languages spoken, written, or signed",English,human
+924,Felix Mendelssohn,educated at,Humboldt University of Berlin,human
+925,Michel Houellebecq,occupation,screenwriter,human
+926,"Washington, D.C.",country,United States of America,"federal district, capital, city of the United States, big city"
+927,Friedrich Nietzsche,occupation,writer,human
+928,Ray Bradbury,place of death,Los Angeles,human
+929,United States of America,diplomatic relation,Haiti,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+930,Panama,member of,Universal Postal Union,"sovereign state, country"
+931,Finland,member of,European Southern Observatory,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+932,Turkey,member of,Treaty on Open Skies,"Mediterranean country, transcontinental country, country, sovereign state"
+933,Paul Reiser,instrument,piano,human
+934,Zimbabwe,member of,Multilateral Investment Guarantee Agency,"republic, landlocked country, country, sovereign state"
+935,Botswana,member of,United Nations,"landlocked country, country, sovereign state"
+936,Sweden,diplomatic relation,Guinea,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+937,Belarus,member of,International Telecommunication Union,"country, landlocked country, unitary state, republic, social state, sovereign state"
+938,Che Guevara,occupation,physician,human
+939,Wilhelm Blaschke,occupation,mathematician,human
+940,William S. Burroughs,educated at,Harvard University,human
+941,Edmund Wilson,occupation,writer,human
+942,Aaron Copland,genre,symphony,human
+943,Martin Buber,occupation,university teacher,human
+944,Randy Travis,occupation,singer,human
+945,Anastacia,genre,pop music,human
+946,Nigeria,member of,International Telecommunication Union,"sovereign state, country"
+947,Brunei,member of,Asia-Pacific Economic Cooperation,"sovereign state, country"
+948,Ray Charles,record label,Atlantic Records,human
+949,G. K. Chesterton,occupation,philosopher,human
+950,Holly Johnson,genre,pop music,human
+951,Cameroon,member of,Universal Postal Union,"country, sovereign state"
+952,Alexander Bogdanov,field of work,philosophy,human
+953,Kyle Gass,occupation,stage actor,human
+954,Switzerland,member of,UNESCO,"confederation, federal state, Helvetic Republic, sovereign state, Federal Treaty, landlocked country, sovereign state, country"
+955,Uganda,diplomatic relation,United States of America,"country, republic, landlocked country, sovereign state"
+956,C. S. Lewis,influenced by,William Butler Yeats,human
+957,Leo Strauss,educated at,Columbia University,human
+958,Kenya,diplomatic relation,Seychelles,"country, sovereign state"
+959,Israel,diplomatic relation,Ireland,"country, sovereign state, Mediterranean country"
+960,Taiwan,diplomatic relation,Democratic Republic of the Congo,"democratic republic, island nation, state with limited recognition"
+961,Ludacris,occupation,voice actor,human
+962,Russia,diplomatic relation,Bhutan,"sovereign state, transcontinental country, legal state, country, secular state, great power, social state, countries bordering the Baltic Sea"
+963,Peru,diplomatic relation,Italy,"sovereign state, country"
+964,United States of America,diplomatic relation,Niger,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+965,Somalia,member of,African Union,"country, republic, sovereign state"
+966,Malaysia,diplomatic relation,Sweden,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+967,Austria,member of,International Telecommunication Union,"country, state, legal state, republic, landlocked country, sovereign state"
+968,Monaco,diplomatic relation,Taiwan,"unitary state, Mediterranean country, sovereign state, principality, country, city-state"
+969,Romania,member of,International Finance Corporation,"country, sovereign state"
+970,Mike Shinoda,instrument,piano,human
+971,Alla Pugacheva,religion,Eastern Orthodox Church,human
+972,Anatole Abragam,member of,French Academy of Sciences,human
+973,Dennis Gabor,field of work,physics,human
+974,Singapore,diplomatic relation,Brunei,"city, island nation, port settlement, country, city-state, sovereign state, big city, city with millions of inhabitants"
+975,Norman Mailer,religion,Judaism,human
+976,Evelyn Waugh,genre,novel,human
+977,Ani DiFranco,instrument,guitar,human
+978,Jan Rubes,country of citizenship,Canada,human
+979,Peru,diplomatic relation,Bolivia,"sovereign state, country"
+980,Germany,diplomatic relation,Greece,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+981,Iran,diplomatic relation,Sri Lanka,"Islamic republic, sovereign state, country"
+982,Ivan Goncharov,occupation,literary critic,human
+983,Al Jolson,genre,traditional pop music,human
+984,Michel Houellebecq,occupation,author,human
+985,Katerina Graham,occupation,singer,human
+986,Idina Menzel,occupation,film actor,human
+987,United Arab Emirates,diplomatic relation,Kenya,"sovereign state, country"
+988,Gilles Deleuze,influenced by,Henri Bergson,human
+989,Billy Dee Williams,occupation,actor,human
+990,Kazakhstan,diplomatic relation,Azerbaijan,"landlocked country, transcontinental country, country, sovereign state, unitary state"
+991,Isaac Hayes,record label,ABC Records,human
+992,Edward Sabine,occupation,botanist,human
+993,Christopher Lee,occupation,television actor,human
+994,Mike Shinoda,"languages spoken, written, or signed",English,human
+995,Golo Mann,member of,Bavarian Academy of Fine Arts,human
+996,Ringo Starr,occupation,film producer,human
+997,Method Man,occupation,singer,human
+998,Kurt Weill,occupation,conductor,human
+999,Richard Feynman,religion,atheism,human
+1000,Sticky Fingaz,occupation,screenwriter,human
+1001,Sammy Davis Jr.,record label,Decca,human
+1002,Jorge Luis Borges,occupation,linguist,human
+1003,Valery Meladze,occupation,singer-songwriter,human
+1004,Tonga,member of,Alliance of Small Island States,"island nation, Territorial evolution of the British Empire, sovereign state, country"
+1005,Republic of Cyprus,member of,European Union,"island nation, sovereign state, country, Mediterranean country, divided country, state"
+1006,Tunisia,member of,Multilateral Investment Guarantee Agency,"Mediterranean country, country, sovereign state, republic"
+1007,Lion Feuchtwanger,occupation,journalist,human
+1008,Luxembourg,diplomatic relation,People's Republic of China,"country, landlocked country, sovereign state, grand duchy, unitary state"
+1009,Cher,occupation,film actor,human
+1010,Robert Musil,occupation,screenwriter,human
+1011,Whoopi Goldberg,occupation,writer,human
+1012,People's Republic of China,diplomatic relation,Mali,"country, secular state, constitutional republic, socialist state, sovereign state"
+1013,Nikolay Basov,"languages spoken, written, or signed",Russian,human
+1014,Mariah Carey,occupation,recording artist,human
+1015,Josephine Baker,record label,Columbia Records,human
+1016,Russia,diplomatic relation,Ireland,"sovereign state, transcontinental country, legal state, country, secular state, great power, social state, countries bordering the Baltic Sea"
+1017,Hannah Arendt,occupation,writer,human
+1018,Togo,member of,African Union,"country, republic, sovereign state"
+1019,Ciara,field of work,musical composition,human
+1020,Milva,"languages spoken, written, or signed",German,human
+1021,Jewel,genre,pop music,human
+1022,Heinrich Brunner,member of,Saint Petersburg Academy of Sciences,human
+1023,John Muir,occupation,philosopher,human
+1024,Papua New Guinea,diplomatic relation,People's Republic of China,"island nation, sovereign state, country, archipelagic state, Commonwealth realm"
+1025,Paul Reiser,occupation,writer,human
+1026,Kazakhstan,member of,Nuclear Suppliers Group,"landlocked country, transcontinental country, country, sovereign state, unitary state"
+1027,Steven Van Zandt,occupation,pianist,human
+1028,Philippines,diplomatic relation,Hong Kong,"country, archipelagic state, sovereign state"
+1029,Bosnia and Herzegovina,diplomatic relation,Slovenia,"constitutional republic, sovereign state, country, Mediterranean country"
+1030,Portugal,diplomatic relation,Angola,"colonial power, sovereign state, country"
+1031,State of Palestine,member of,UNESCO,"state with limited recognition, divided country"
+1032,Harald Lesch,employer,Ludwig Maximilian University of Munich,human
+1033,Tracy Chapman,occupation,street artist,human
+1034,Federated States of Micronesia,official language,English,"country, island nation, sovereign state"
+1035,Igor Stravinsky,residence,Paris,human
+1036,John Cassavetes,occupation,film director,human
+1037,Gene Autry,occupation,film actor,human
+1038,David Mamet,occupation,film director,human
+1039,Christina Milian,occupation,singer-songwriter,human
+1040,Irène Joliot-Curie,sibling,Ève Curie,human
+1041,Jean-Antoine-Nicolas de Caritat de Condorcet,"languages spoken, written, or signed",French,human
+1042,Iran,diplomatic relation,Kazakhstan,"Islamic republic, sovereign state, country"
+1043,Montesquieu,field of work,philosophy,human
+1044,David Attenborough,occupation,screenwriter,human
+1045,Grenada,member of,Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,"country, sovereign state, island nation, state, Commonwealth realm"
+1046,Vladimir Prelog,occupation,university teacher,human
+1047,Saudi Arabia,diplomatic relation,Iran,"sovereign state, country"
+1048,Etta James,occupation,musician,human
+1049,Gabriel García Márquez,country of citizenship,Colombia,human
+1050,Vitaly Ginzburg,member of,Royal Society,human
+1051,Regina Spektor,genre,indie pop,human
+1052,Nikolay Basov,occupation,inventor,human
+1053,Joe Jonas,country of citizenship,United States of America,human
+1054,Peter Tork,occupation,film actor,human
+1055,Bulgaria,diplomatic relation,Latvia,"country, unitary state, sovereign state"
+1056,Vitamin C,occupation,composer,human
+1057,Bulat Okudzhava,genre,novel,human
+1058,Aleksey Nikolayevich Tolstoy,occupation,novelist,human
+1059,Palau,diplomatic relation,United States of America,"country, island nation, sovereign state"
+1060,Romain Gary,"languages spoken, written, or signed",Polish,human
+1061,Samuel R. Delany,genre,science fiction,human
+1062,Paul Anka,genre,pop music,human
+1063,Kelly Rowland,occupation,film actor,human
+1064,Yuri Vizbor,genre,poetry,human
+1065,Nikolay Basov,occupation,physicist,human
+1066,Billy Dee Williams,occupation,television actor,human
+1067,United States of America,diplomatic relation,Costa Rica,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+1068,J. K. Rowling,influenced by,G. K. Chesterton,human
+1069,Randy Travis,occupation,songwriter,human
+1070,A. R. Rahman,occupation,multi-instrumentalist,human
+1071,Bulgaria,diplomatic relation,Poland,"country, unitary state, sovereign state"
+1072,Natasha Shneider,record label,Motown,human
+1073,United States of America,diplomatic relation,Ireland,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+1074,Rihanna,influenced by,Aaliyah,human
+1075,Heinrich Wilhelm Olbers,member of,French Academy of Sciences,human
+1076,Steve Allen,occupation,writer,human
+1077,Mauritania,diplomatic relation,France,"Islamic republic, sovereign state, country"
+1078,Bulat Okudzhava,country of citizenship,Russia,human
+1079,Randy Newman,occupation,composer,human
+1080,Sean Combs,instrument,voice,human
+1081,Katharine McPhee,occupation,film actor,human
+1082,Damon Albarn,occupation,songwriter,human
+1083,Pakistan,diplomatic relation,Finland,"sovereign state, country"
+1084,William Faulkner,occupation,novelist,human
+1085,Erykah Badu,instrument,guitar,human
+1086,Charlotte Church,genre,indie pop,human
+1087,Algeria,diplomatic relation,Indonesia,"sovereign state, country, Mediterranean country"
+1088,China Anne McClain,occupation,singer-songwriter,human
+1089,Canada,member of,Australia Group,"sovereign state, Commonwealth realm, country, dominion of the British Empire"
+1090,Jack White,occupation,actor,human
+1091,Kurt Vonnegut,occupation,writer,human
+1092,Italy,member of,International Finance Corporation,"republic, unitary state, social state, Mediterranean country, sovereign state, country"
+1093,Morocco,member of,Arab Bank for Economic Development in Africa,"sovereign state, constitutional monarchy, Mediterranean country, country"
+1094,Kuwait,member of,Arab Fund for Economic and Social Development,"country, sovereign state, sovereign state"
+1095,Honduras,part of,Hispanic America,"country, sovereign state"
+1096,Taiwan,diplomatic relation,United Arab Emirates,"democratic republic, island nation, state with limited recognition"
+1097,Jerry Lee Lewis,genre,rock music,human
+1098,Truman Capote,occupation,artist,human
+1099,Yehudi Menuhin,member of,American Academy of Arts and Sciences,human
+1100,Suriname,diplomatic relation,Guyana,"colony, sovereign state, country"
+1101,Michail Sholokhov,member of political party,Communist Party of the Soviet Union,human
+1102,Jennette McCurdy,genre,pop music,human
+1103,Sticky Fingaz,occupation,actor,human
+1104,Germany,diplomatic relation,Kingdom of the Netherlands,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+1105,Rudolf Christoph Eucken,ethnic group,Germans,human
+1106,Denmark,diplomatic relation,Estonia,"colonial power, state, sovereign state, country, autonomous country within the Kingdom of Denmark, countries bordering the Baltic Sea"
+1107,Guatemala,part of,Latin America,"sovereign state, country"
+1108,Tanzania,diplomatic relation,Malaysia,"sovereign state, republic, country"
+1109,A. A. Milne,occupation,novelist,human
+1110,Joan Baez,occupation,guitarist,human
+1111,Chicago,country,United States of America,"city of the United States, city with millions of inhabitants, big city"
+1112,Edgar Allan Poe,occupation,novelist,human
+1113,Harry Nilsson,instrument,voice,human
+1114,Walter Benjamin,occupation,literary critic,human
+1115,Ashanti,genre,hip hop music,human
+1116,Greece,diplomatic relation,Holy See,"Mediterranean country, unitary state, sovereign state, republic, country, member state of the European Union"
+1117,Chad,member of,International Development Association,"sovereign state, country, landlocked country"
+1118,Motown,parent organization,Universal Music Group,record label
+1119,Chile,member of,International Telecommunication Union,"sovereign state, country"
+1120,Hugo Huppert,member of political party,Communist Party of the Soviet Union,human
+1121,Prince,genre,funk,human
+1122,Mary J. Blige,genre,contemporary R&B,human
+1123,Portugal,diplomatic relation,Canada,"colonial power, sovereign state, country"
+1124,Roy Orbison,cause of death,myocardial infarction,human
+1125,Heinrich Böll,occupation,author,human
+1126,Diana Arbenina,instrument,accordion,human
+1127,Charles Wheatstone,member of,Academy of Sciences of Turin,human
+1128,Will Smith,occupation,television actor,human
+1129,Malaysia,diplomatic relation,Nigeria,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+1130,Tina Turner,occupation,composer,human
+1131,Italy,diplomatic relation,Afghanistan,"republic, unitary state, social state, Mediterranean country, sovereign state, country"
+1132,Daniel Handler,occupation,songwriter,human
+1133,Jolin Tsai,occupation,dancer,human
+1134,Guyana,member of,Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,"sovereign state, country"
+1135,Benin,member of,"""African, Caribbean and Pacific Group of States""","sovereign state, country"
+1136,Milan Kundera,occupation,university teacher,human
+1137,Mikhail Lermontov,occupation,artist,human
+1138,Max Weber,occupation,sociologist,human
+1139,Harold Bloom,occupation,professor,human
+1140,Natalie Portman,country of citizenship,Israel,human
+1141,Syd Barrett,genre,psychedelic rock,human
+1142,Celeste Buckingham,occupation,artist,human
+1143,Heinrich Schliemann,country of citizenship,United States of America,human
+1144,Indonesia,member of,Asian Development Bank,"archipelagic state, country, constitutional republic, island nation, sovereign state, presidential system"
+1145,Ulrich von Wilamowitz-Moellendorff,"languages spoken, written, or signed",French,human
+1146,James Brown,country of citizenship,United States of America,human
+1147,André-Marie Ampère,member of,Royal Swedish Academy of Sciences,human
+1148,Igor Stravinsky,residence,Rome,human
+1149,Andorra,member of,International Telecommunication Union,"principality, country, landlocked country, sovereign state"
+1150,Sweden,diplomatic relation,Saudi Arabia,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1151,Dmitry Medvedev,residence,Saint Petersburg,human
+1152,Greece,diplomatic relation,Iceland,"Mediterranean country, unitary state, sovereign state, republic, country, member state of the European Union"
+1153,Adriano Celentano,occupation,producer,human
+1154,Philip Roth,influenced by,Leo Tolstoy,human
+1155,Jennette McCurdy,instrument,voice,human
+1156,Kelly Clarkson,record label,Atlantic Records,human
+1157,Jerry Lee Lewis,occupation,recording artist,human
+1158,Indonesia,diplomatic relation,Singapore,"archipelagic state, country, constitutional republic, island nation, sovereign state, presidential system"
+1159,Mickey Rooney,time period,20th century,human
+1160,Finland,diplomatic relation,Slovenia,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1161,State of Palestine,diplomatic relation,Holy See,"state with limited recognition, divided country"
+1162,Amr Diab,occupation,singer-songwriter,human
+1163,Jada Pinkett Smith,field of work,musical composition,human
+1164,David Brewster,member of,National Academy of Sciences,human
+1165,Sabrina Bryan,occupation,television actor,human
+1166,Kenny Rogers,instrument,voice,human
+1167,Ivan Franko,country of citizenship,Austria-Hungary,human
+1168,David Brewster,member of,Royal Swedish Academy of Sciences,human
+1169,Kuwait,diplomatic relation,Russia,"country, sovereign state, sovereign state"
+1170,Victoria Beckham,record label,Virgin Records,human
+1171,Todd Rundgren,occupation,composer,human
+1172,Iran,diplomatic relation,Pakistan,"Islamic republic, sovereign state, country"
+1173,Bolivia,member of,International Finance Corporation,"country, landlocked country, sovereign state, republic"
+1174,Robbie Robertson,occupation,guitarist,human
+1175,George Steiner,occupation,novelist,human
+1176,Pakistan,diplomatic relation,New Zealand,"sovereign state, country"
+1177,Max Reger,cause of death,myocardial infarction,human
+1178,Art Garfunkel,occupation,television actor,human
+1179,Albania,member of,Universal Postal Union,"sovereign state, country, unitary state, Mediterranean country, republic"
+1180,Alexander Alexandrovich Fadeyev,occupation,writer,human
+1181,Ciara,country of citizenship,United States of America,human
+1182,Harry Shearer,residence,New York City,human
+1183,Syria,diplomatic relation,People's Republic of China,"colony, country, Mediterranean country, sovereign state"
+1184,Lord Byron,occupation,autobiographer,human
+1185,Lithuania,member of,International Development Association,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1186,Jason Derulo,occupation,composer,human
+1187,John Frederick William Herschel,member of,American Academy of Arts and Sciences,human
+1188,Paul Krugman,influenced by,John Stuart Mill,human
+1189,Buffy Sainte-Marie,genre,contemporary folk music,human
+1190,Serbia,continent,Europe,"republic, sovereign state, landlocked country, country"
+1191,Dorothy L. Sayers,influenced by,G. K. Chesterton,human
+1192,United States of America,member of,Organisation for Economic Cooperation and Development,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+1193,Gackt,occupation,composer,human
+1194,Maldives,member of,International Finance Corporation,"sovereign state, country, island nation"
+1195,Lori Lieberman,country of citizenship,United States of America,human
+1196,Carl Sagan,occupation,naturalist,human
+1197,People's Republic of China,diplomatic relation,United States of America,"country, secular state, constitutional republic, socialist state, sovereign state"
+1198,LeToya Luckett,record label,Capitol Records,human
+1199,Sergey Mikhalkov,member of,USSR Union of Writers,human
+1200,Sidney Sheldon,occupation,writer,human
+1201,Canada,member of,International Centre for Settlement of Investment Disputes,"sovereign state, Commonwealth realm, country, dominion of the British Empire"
+1202,Solomon Islands,member of,Asian Development Bank,"country, island nation, Commonwealth realm, sovereign state"
+1203,Angola,diplomatic relation,Russia,"sovereign state, country"
+1204,Felix Klein,occupation,politician,human
+1205,Edvard Radzinsky,"languages spoken, written, or signed",Russian,human
+1206,Jacques Rivette,influenced by,Jean Cocteau,human
+1207,Marilyn Manson,occupation,autobiographer,human
+1208,Kazakhstan,diplomatic relation,Greece,"landlocked country, transcontinental country, country, sovereign state, unitary state"
+1209,Lionel Hampton,occupation,vocalist,human
+1210,Benjamin Franklin,occupation,inventor,human
+1211,India,diplomatic relation,Hong Kong,"dominion of the British Empire, sovereign state, republic, country"
+1212,Cliff Richard,country of citizenship,Barbados,human
+1213,Golo Mann,occupation,university teacher,human
+1214,Queen Latifah,occupation,actor,human
+1215,Thailand,diplomatic relation,France,"constitutional monarchy, sovereign state, country"
+1216,Ricky Nelson,genre,country music,human
+1217,Thomas Hobbes,occupation,translator,human
+1218,Zhores Alfyorov,member of,German Academy of Sciences at Berlin,human
+1219,Lauren Bacall,occupation,television actor,human
+1220,Philippines,diplomatic relation,Ukraine,"country, archipelagic state, sovereign state"
+1221,Shaquille O'Neal,occupation,film producer,human
+1222,Saul Bellow,influenced by,James Joyce,human
+1223,Mary Pickford,place of death,Santa Monica,human
+1224,Mark Wahlberg,occupation,film producer,human
+1225,Sheryl Crow,field of work,musical composition,human
+1226,Henry James,occupation,writer,human
+1227,Joseph Brodsky,occupation,writer,human
+1228,James Blunt,record label,Warner Music Group,human
+1229,Austria,diplomatic relation,Kosovo,"country, state, legal state, republic, landlocked country, sovereign state"
+1230,Galileo Galilei,occupation,university teacher,human
+1231,Manfred Eigen,educated at,University of Göttingen,human
+1232,Tunisia,member of,African Development Bank,"Mediterranean country, country, sovereign state, republic"
+1233,Moby,occupation,singer,human
+1234,Connie Smith,record label,Warner Music Group,human
+1235,Leopold von Ranke,educated at,Leipzig University,human
+1236,Miguel de Cervantes,genre,novel,human
+1237,Billy Dee Williams,occupation,painter,human
+1238,Pyotr Ilyich Tchaikovsky,genre,classical music,human
+1239,Liberia,member of,International Bank for Reconstruction and Development,"republic, sovereign state, country"
+1240,Sweden,member of,European Southern Observatory,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1241,Courtney Love,instrument,voice,human
+1242,Guinea-Bissau,diplomatic relation,People's Republic of China,"sovereign state, country"
+1243,Guglielmo Marconi,country of citizenship,Kingdom of Italy,human
+1244,Tionne Watkins,country of citizenship,United States of America,human
+1245,Paul Valéry,occupation,journalist,human
+1246,Ivory Coast,diplomatic relation,Georgia,"country, sovereign state"
+1247,George Soros,country of citizenship,United States of America,"billionaire, human"
+1248,Philip Roth,influenced by,Henry James,human
+1249,Michael Mann,religion,Judaism,human
+1250,Tristan Tzara,occupation,translator,human
+1251,Guatemala,diplomatic relation,Georgia,"sovereign state, country"
+1252,Russia,diplomatic relation,Belgium,"sovereign state, transcontinental country, legal state, country, secular state, great power, social state, countries bordering the Baltic Sea"
+1253,Russia,diplomatic relation,San Marino,"sovereign state, transcontinental country, legal state, country, secular state, great power, social state, countries bordering the Baltic Sea"
+1254,Nepal,diplomatic relation,Indonesia,"sovereign state, landlocked country, country, geographic region"
+1255,Bobby Darin,record label,Atco Records,human
+1256,Tito Jackson,country of citizenship,United States of America,human
+1257,Elvis Presley,instrument,guitar,"human, twin"
+1258,Saint Petersburg,continent,Europe,"city with millions of inhabitants, city/town, second largest city, city with millions of inhabitants, city with millions of inhabitants, largest city, capital of Russia, former capital, second largest city, federal city of Russia, big city"
+1259,St. Vincent,instrument,voice,human
+1260,Bertolt Brecht,occupation,lyricist,human
+1261,Léon Theremin,occupation,scientist,human
+1262,Germany,member of,International Telecommunication Union,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+1263,Guinea,member of,UNESCO,"country, sovereign state"
+1264,Günther Anders,member of,Deutsche Akademie für Sprache und Dichtung,human
+1265,Yuri Shevchuk,instrument,guitar,human
+1266,Léo Ferré,country of citizenship,Monaco,human
+1267,Berry Gordy,genre,rock music,human
+1268,Leonard Cohen,genre,soft rock,human
+1269,"William Thomson, 1st Baron Kelvin",member of,Royal Society of Edinburgh,human
+1270,Germany,diplomatic relation,North Korea,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+1271,Alexis de Tocqueville,country of citizenship,France,human
+1272,Rick Wakeman,instrument,piano,human
+1273,Afghanistan,diplomatic relation,Ukraine,"landlocked country, Islamic republic, country, sovereign state"
+1274,Alexander von Humboldt,member of,Academy of Sciences of Turin,human
+1275,Colm Tóibín,influenced by,Elizabeth Bishop,human
+1276,Franz Kafka,cause of death,tuberculosis,human
+1277,Singapore,member of,International Telecommunication Union,"city, island nation, port settlement, country, city-state, sovereign state, big city, city with millions of inhabitants"
+1278,Debbie Gibson,occupation,film actor,human
+1279,Joe Walsh,record label,Warner Bros. Records,human
+1280,Trey Parker,occupation,musician,human
+1281,Croatia,member of,International Finance Corporation,"sovereign state, country, Mediterranean country, unitary state"
+1282,Bulgaria,member of,World Trade Organization,"country, unitary state, sovereign state"
+1283,Galina Vishnevskaya,place of death,Moscow,human
+1284,"Clarence ""Gatemouth"" Brown",instrument,guitar,human
+1285,Carole King,place of birth,Brooklyn,human
+1286,Barry Manilow,occupation,screenwriter,human
+1287,Gretchen Wilson,occupation,record producer,human
+1288,Bulgaria,diplomatic relation,United Kingdom,"country, unitary state, sovereign state"
+1289,David Walliams,occupation,author,human
+1290,Jean Renoir,occupation,film director,human
+1291,Jorge Amado,occupation,politician,human
+1292,Che Guevara,occupation,screenwriter,human
+1293,Rabindranath Tagore,occupation,composer,human
+1294,Oman,part of,Middle East,"country, sovereign state, sultanate"
+1295,Andy Griffith,genre,country music,human
+1296,Noam Chomsky,educated at,Harvard University,human
+1297,Gustav Kirchhoff,employer,Humboldt University of Berlin,human
+1298,Adriano Celentano,occupation,film score composer,human
+1299,Italy,diplomatic relation,Philippines,"republic, unitary state, social state, Mediterranean country, sovereign state, country"
+1300,Sticky Fingaz,record label,Def Jam Recordings,human
+1301,Pedro II of Brazil,member of,Saint Petersburg Academy of Sciences,human
+1302,Jackie Jackson,sibling,Marlon Jackson,human
+1303,Harold Bloom,influenced by,Samuel Johnson,human
+1304,Alexander Pushkin,influenced by,Percy Bysshe Shelley,human
+1305,Solange Knowles,occupation,actor,"human, mononymous person"
+1306,John Mayer,occupation,singer,human
+1307,Donovan,instrument,harmonica,human
+1308,Anthony Kiedis,occupation,singer,human
+1309,Leopold von Ranke,member of,Hungarian Academy of Sciences,human
+1310,Harald Weinrich,member of,Academia Europaea,human
+1311,Kinky Friedman,occupation,politician,human
+1312,Philip Pullman,occupation,executive producer,human
+1313,Stanisław Lem,country of citizenship,Poland,human
+1314,Ève Curie,sibling,Irène Joliot-Curie,human
+1315,Soulja Boy,genre,hip hop music,human
+1316,Ryan Tedder,occupation,songwriter,human
+1317,Charles Aznavour,occupation,screenwriter,human
+1318,Mikhail Vassilyevich Lomonosov,occupation,university teacher,human
+1319,Nick Cave,genre,country music,human
+1320,Jack Black,place of birth,Santa Monica,human
+1321,Malta,member of,Visa Waiver Program,"island nation, country, unitary state, Mediterranean country, sovereign state"
+1322,Donny Hathaway,place of birth,Chicago,human
+1323,Lemmy Kilmister,genre,psychedelic rock,human
+1324,Ingrid Michaelson,occupation,lyricist,human
+1325,Anton Chekhov,occupation,writer,human
+1326,Taiwan,diplomatic relation,Peru,"democratic republic, island nation, state with limited recognition"
+1327,Italy,diplomatic relation,Belgium,"republic, unitary state, social state, Mediterranean country, sovereign state, country"
+1328,Paul Simon,instrument,voice,human
+1329,Georg Christoph Lichtenberg,occupation,writer,human
+1330,James Brown,instrument,voice,human
+1331,Dennis Hopper,occupation,painter,human
+1332,Viggo Mortensen,occupation,poet,human
+1333,Bill Haley,genre,rock music,human
+1334,Felix Klein,member of,Royal Netherlands Academy of Arts and Sciences,human
+1335,Bangladesh,diplomatic relation,Italy,"country, sovereign state"
+1336,Pavel Jozef Šafárik,country of citizenship,Austrian Empire,human
+1337,Donald Glover,record label,Island Records,human
+1338,James Cameron,occupation,inventor,human
+1339,William Faulkner,country of citizenship,United States of America,human
+1340,Serbia,diplomatic relation,Turkey,"republic, sovereign state, landlocked country, country"
+1341,Sudan,member of,Arab League,"sovereign state, country, member states of the United Nations, republic"
+1342,Harold Lloyd,"languages spoken, written, or signed",English,human
+1343,Argentina,diplomatic relation,Morocco,"country, sovereign state"
+1344,Robin Gibb,genre,pop music,human
+1345,Ireland,diplomatic relation,Argentina,"sovereign state, country, island nation"
+1346,Peter Tork,occupation,pianist,human
+1347,Portugal,diplomatic relation,Brazil,"colonial power, sovereign state, country"
+1348,James Joyce,occupation,literary critic,human
+1349,Honoré de Balzac,educated at,University of Paris (1896-1968),human
+1350,Italo Calvino,occupation,author,human
+1351,Yemen,member of,UNESCO,"sovereign state, country"
+1352,Jean Cocteau,occupation,playwright,human
+1353,Vladimir Solovyov,occupation,entrepreneur,human
+1354,Indonesia,diplomatic relation,South Africa,"archipelagic state, country, constitutional republic, island nation, sovereign state, presidential system"
+1355,Alexander Alexandrovich Fadeyev,member of political party,Communist Party of the Soviet Union,human
+1356,Tristan Tzara,occupation,poet,human
+1357,Israel,diplomatic relation,France,"country, sovereign state, Mediterranean country"
+1358,Vanessa Williams,genre,rock music,human
+1359,Gambia,official language,English,"country, sovereign state"
+1360,Omar Sharif,"languages spoken, written, or signed",Arabic,human
+1361,Benoit Mandelbrot,educated at,École Polytechnique,human
+1362,Turkey,diplomatic relation,Afghanistan,"Mediterranean country, transcontinental country, country, sovereign state"
+1363,Cree Summer,record label,A&M Records,human
+1364,Master P,occupation,record producer,human
+1365,Guinea,diplomatic relation,People's Republic of China,"country, sovereign state"
+1366,Taylor Swift,genre,country music,human
+1367,Andrei Konchalovsky,occupation,director,human
+1368,Theo van Gogh,occupation,film editor,human
+1369,Madonna,genre,jazz,human
+1370,Trey Parker,occupation,film director,human
+1371,Ralph Ellison,occupation,literary critic,human
+1372,Angola,diplomatic relation,Argentina,"sovereign state, country"
+1373,Ernst Troeltsch,employer,University of Bonn,human
+1374,Dolly Parton,genre,gospel music,human
+1375,Mel Brooks,influenced by,Fred Astaire,human
+1376,Ghana,member of,International Telecommunication Union,"country, sovereign state"
+1377,Drake Bell,instrument,piano,human
+1378,Ciara,genre,contemporary R&B,human
+1379,Tupac Shakur,occupation,composer,human
+1380,Japan,member of,International Hydrographic Organization,"island nation, sovereign state, country"
+1381,People's Republic of China,member of,Asia-Pacific Economic Cooperation,"country, secular state, constitutional republic, socialist state, sovereign state"
+1382,Tyrese Gibson,occupation,disc jockey,human
+1383,Frank Sinatra,influenced by,Bing Crosby,human
+1384,William S. Burroughs,influenced by,Jean-Paul Sartre,human
+1385,John Muir,occupation,inventor,human
+1386,RuPaul,occupation,film producer,human
+1387,Michael Jackson,occupation,screenwriter,human
+1388,Norway,diplomatic relation,Israel,"sovereign state, country, constitutional monarchy"
+1389,Ellie Goulding,genre,synth-pop,human
+1390,Nicki Minaj,occupation,businessperson,human
+1391,M. Pokora,occupation,actor,human
+1392,Ernest Renan,religion,Catholic Church,human
+1393,Ján Kollár,occupation,writer,human
+1394,Madonna,"languages spoken, written, or signed",French,human
+1395,RCA Records,genre,pop music,"record company, record label"
+1396,South Africa,diplomatic relation,Egypt,"sovereign state, country"
+1397,Swizz Beatz,occupation,entrepreneur,human
+1398,Stephen Fry,occupation,film director,human
+1399,Barthold Georg Niebuhr,country of citizenship,Germany,human
+1400,Jean-Jacques Rousseau,occupation,composer,human
+1401,Mikhail Vassilyevich Lomonosov,occupation,politician,human
+1402,John Kenneth Galbraith,occupation,economist,human
+1403,Van Morrison,instrument,voice,human
+1404,Gilbert Bécaud,occupation,singer,human
+1405,Mozambique,member of,International Bank for Reconstruction and Development,"sovereign state, overseas province of Portugal, country, republic"
+1406,Namibia,diplomatic relation,People's Republic of China,"sovereign state, country, republic"
+1407,Alexander von Humboldt,member of,French Academy of Sciences,human
+1408,Julia Volkova,religion,Islam,human
+1409,Éric Rohmer,place of burial,Montparnasse Cemetery,human
+1410,Jack London,occupation,writer,human
+1411,Moby,country of citizenship,United States of America,human
+1412,Poland,member of,International Hydrographic Organization,"sovereign state, country, countries bordering the Baltic Sea"
+1413,Gene Kelly,occupation,stage actor,human
+1414,Kinky Friedman,occupation,journalist,human
+1415,Donald Knuth,"languages spoken, written, or signed",English,human
+1416,EMI,country,United Kingdom,"enterprise, business, privately held company, Wikipedia article covering multiple topics, record label, record company, holding company"
+1417,Peter Debye,member of,Göttingen Academy of Sciences,human
+1418,Epic,founded by,Columbia Records,record label
+1419,Charles Rosen,occupation,non-fiction writer,human
+1420,St. Vincent,occupation,musician,human
+1421,Seth Rogen,occupation,film actor,human
+1422,Claudio Magris,occupation,professor,human
+1423,Malaysia,diplomatic relation,Bosnia and Herzegovina,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+1424,Yoram Kaniuk,occupation,journalist,human
+1425,Chris Brown,occupation,artist,human
+1426,Chile,diplomatic relation,Indonesia,"sovereign state, country"
+1427,Snoop Dogg,religion,Islam,human
+1428,Tyrese Gibson,ethnic group,African Americans,human
+1429,Michael Jackson,genre,rhythm and blues,human
+1430,Lithuania,member of,UNESCO,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1431,Gilles Deleuze,occupation,journalist,human
+1432,Jon Bon Jovi,instrument,piano,human
+1433,Irving Berlin,occupation,screenwriter,human
+1434,Mikhail Lermontov,place of birth,Moscow,human
+1435,Uruguay,diplomatic relation,Holy See,"secular state, sovereign state, country"
+1436,Johnny Cash,instrument,voice,human
+1437,Leó Szilárd,occupation,engineer,human
+1438,Howard Zinn,place of birth,Brooklyn,human
+1439,Friedrich Wilhelm Joseph Schelling,member of,Bavarian Academy of Sciences and Humanities,human
+1440,East Timor,member of,Alliance of Small Island States,"country, island nation, sovereign state"
+1441,Lithuania,diplomatic relation,Hungary,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1442,Austria,diplomatic relation,Liechtenstein,"country, state, legal state, republic, landlocked country, sovereign state"
+1443,Richard Dawkins,"languages spoken, written, or signed",English,human
+1444,Cambodia,diplomatic relation,Israel,"country, sovereign state"
+1445,Kuwait,member of,International Bank for Reconstruction and Development,"country, sovereign state, sovereign state"
+1446,Seth MacFarlane,country of citizenship,United States of America,human
+1447,Jerry Lewis,occupation,screenwriter,human
+1448,Nelly Furtado,country of citizenship,Canada,human
+1449,Julie Driscoll,genre,pop music,human
+1450,Justin Bieber,record label,Island Records,human
+1451,Siméon Denis Poisson,occupation,mathematician,human
+1452,Peru,member of,Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,"sovereign state, country"
+1453,Nicholas Marr,occupation,writer,human
+1454,Germany,diplomatic relation,Bahrain,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+1455,Brunei,diplomatic relation,Laos,"sovereign state, country"
+1456,Solomon Islands,member of,International Finance Corporation,"country, island nation, Commonwealth realm, sovereign state"
+1457,Australia,diplomatic relation,Ukraine,"dominion of the British Empire, Commonwealth realm, sovereign state, country, federal state"
+1458,Milla Jovovich,occupation,film actor,human
+1459,Marc Connelly,"languages spoken, written, or signed",English,human
+1460,Massimo Bontempelli,"languages spoken, written, or signed",French,human
+1461,William Morris,occupation,science fiction writer,human
+1462,Ezra Pound,occupation,composer,human
+1463,Julian Lennon,occupation,composer,human
+1464,Geoffrey Ingram Taylor,member of,Russian Academy of Sciences,human
+1465,George Eliot,occupation,translator,human
+1466,"Georges-Louis Leclerc, Comte de Buffon",occupation,translator,human
+1467,Poland,member of,UNESCO,"sovereign state, country, countries bordering the Baltic Sea"
+1468,Serbia,diplomatic relation,Tajikistan,"republic, sovereign state, landlocked country, country"
+1469,Ève Curie,occupation,pianist,human
+1470,Dietrich Fischer-Dieskau,occupation,composer,human
+1471,Herbert Grönemeyer,occupation,musician,human
+1472,Gotthold Ephraim Lessing,"languages spoken, written, or signed",German,human
+1473,Eric Idle,occupation,television actor,human
+1474,Vitamin C,residence,Los Angeles,human
+1475,Ecuador,member of,United Nations,"country, sovereign state"
+1476,Josephine Baker,"languages spoken, written, or signed",French,human
+1477,Tara Strong,residence,Los Angeles,human
+1478,Charles Wheatstone,member of,Bavarian Academy of Sciences and Humanities,human
+1479,"William Thomson, 1st Baron Kelvin",member of,American Academy of Arts and Sciences,human
+1480,Steven Weinberg,country of citizenship,United States of America,human
+1481,Heinrich Heine,educated at,University of Göttingen,human
+1482,Giorgio Gaber,occupation,composer,human
+1483,North Macedonia,diplomatic relation,Germany,"country, sovereign state, landlocked country"
+1484,Taiwan,diplomatic relation,Tanzania,"democratic republic, island nation, state with limited recognition"
+1485,George Sand,occupation,playwright,human
+1486,Barbra Streisand,place of birth,Brooklyn,human
+1487,Vanuatu,member of,World Trade Organization,"sovereign state, country, island nation"
+1488,Ilya Ehrenburg,occupation,screenwriter,human
+1489,Percy Bysshe Shelley,ethnic group,English people,human
+1490,Jimmy Fallon,instrument,guitar,human
+1491,Mario Vargas Llosa,influenced by,William Faulkner,human
+1492,Carl Sagan,occupation,university teacher,human
+1493,Georgia,diplomatic relation,Lesotho,"republic, unitary state, legal state, sovereign state, country"
+1494,Carl Friedrich von Weizsäcker,occupation,physicist,human
+1495,Ingrid Michaelson,occupation,singer-songwriter,human
+1496,Neil Young,occupation,songwriter,human
+1497,Lily Allen,country of citizenship,United Kingdom,human
+1498,Ukraine,diplomatic relation,North Macedonia,"social state, sovereign state, republic, legal state, unitary state, country"
+1499,Malaysia,diplomatic relation,Lithuania,"sovereign state, country, member states of the Association of Southeast Asian Nations"
+1500,Queen Latifah,occupation,businessperson,human
+1501,Sergei Korolev,residence,Moscow,human
+1502,Fritz Leiber Junior,occupation,journalist,human
+1503,Stephen King,influenced by,H. P. Lovecraft,human
+1504,Fazil Iskander,occupation,novelist,human
+1505,Robbie Robertson,instrument,voice,human
+1506,Bertolt Brecht,occupation,writer,human
+1507,will.i.am,instrument,keyboard instrument,human
+1508,Urbain Le Verrier,member of,Royal Prussian Academy of Sciences,human
+1509,Gotthelf Fischer von Waldheim,occupation,biologist,human
+1510,Seamus Heaney,country of citizenship,Ireland,human
+1511,Steve Carell,occupation,television director,human
+1512,Maria Callas,instrument,voice,human
+1513,Herbie Hancock,occupation,bandleader,human
+1514,Libya,member of,Universal Postal Union,"country, sovereign state, Mediterranean country"
+1515,George Frideric Handel,"languages spoken, written, or signed",German,human
+1516,Finland,member of,Multilateral Investment Guarantee Agency,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1517,Michael Cera,occupation,character actor,human
+1518,Will Smith,residence,Los Angeles,human
+1519,Philip Roth,occupation,screenwriter,human
+1520,Clint Eastwood,occupation,character actor,human
+1521,North Macedonia,member of,Organization for Security and Co-operation in Europe,"country, sovereign state, landlocked country"
+1522,George Orwell,occupation,novelist,human
+1523,Camille Jordan,employer,École Polytechnique,human
+1524,St. Vincent,genre,indie pop,human
+1525,Jimmy Buffett,genre,pop music,human
+1526,Paraguay,member of,International Development Association,"country, landlocked country, sovereign state, republic"
+1527,Sean Penn,occupation,film producer,human
+1528,Vietnam,member of,Asia-Pacific Economic Cooperation,"country, sovereign state, communist state"
+1529,Sofia Kovalevskaya,country of citizenship,Russian Empire,human
+1530,Germany,diplomatic relation,Liberia,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+1531,Christina Aguilera,occupation,musician,human
+1532,Sweden,member of,European Payments Union,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1533,John von Neumann,ethnic group,Ashkenazi Jews,human
+1534,Isaac Asimov,religion,Judaism,human
+1535,Romania,diplomatic relation,Pakistan,"country, sovereign state"
+1536,Japan,diplomatic relation,Solomon Islands,"island nation, sovereign state, country"
+1537,Armenia,member of,International Finance Corporation,"landlocked country, sovereign state, country"
+1538,Solange Knowles,occupation,singer-songwriter,"human, mononymous person"
+1539,Melanie C,field of work,poetry,human
+1540,Tajikistan,diplomatic relation,Uzbekistan,"sovereign state, country, landlocked country, unitary state"
+1541,Samuel R. Delany,occupation,author,human
+1542,Chile,diplomatic relation,El Salvador,"sovereign state, country"
+1543,Stendhal,movement,literary realism,"human, mononymous person"
+1544,Taiwan,diplomatic relation,Togo,"democratic republic, island nation, state with limited recognition"
+1545,Zemfira,instrument,guitar,human
+1546,Dudley Moore,cause of death,pneumonia,human
+1547,Éric Rohmer,"languages spoken, written, or signed",French,human
+1548,Charlie Rich,"languages spoken, written, or signed",English,human
+1549,Heinrich Wilhelm Gottfried von Waldeyer-Hartz,place of death,Berlin,human
+1550,Vladimir Lenin,occupation,economist,human
+1551,Howard Hughes,occupation,philanthropist,human
+1552,Khloé Kardashian,occupation,entrepreneur,human
+1553,Colombia,member of,International Hydrographic Organization,"republic, country, sovereign state, secular state"
+1554,Henri Bergson,influenced by,Immanuel Kant,human
+1555,Tionne Watkins,record label,Epic,human
+1556,Damon Albarn,country of citizenship,United Kingdom,human
+1557,Trent Reznor,record label,Columbia Records,human
+1558,Haruki Murakami,occupation,science fiction writer,human
+1559,William Morris,occupation,poet,human
+1560,Willie Nelson,member of political party,Democratic Party,human
+1561,China Anne McClain,occupation,musician,human
+1562,Wilhelm Ostwald,occupation,university teacher,human
+1563,Bobby Darin,occupation,songwriter,human
+1564,Lucio Dalla,country of citizenship,Kingdom of Italy,human
+1565,Donald Glover,instrument,drum kit,human
+1566,Papua New Guinea,diplomatic relation,Philippines,"island nation, sovereign state, country, archipelagic state, Commonwealth realm"
+1567,Miles Davis,record label,Capitol Records,human
+1568,Panama,official language,Spanish,"sovereign state, country"
+1569,Romain Gary,occupation,science fiction writer,human
+1570,Madagascar,official language,French,"island nation, country, sovereign state"
+1571,Donny Hathaway,instrument,organ,human
+1572,Liza Minnelli,occupation,singer,human
+1573,Serbia,diplomatic relation,Turkmenistan,"republic, sovereign state, landlocked country, country"
+1574,Mexico,diplomatic relation,Denmark,"country, sovereign state"
+1575,Mick Ronson,"languages spoken, written, or signed",English,human
+1576,Phil Collins,instrument,piano,human
+1577,Turkey,diplomatic relation,Iraq,"Mediterranean country, transcontinental country, country, sovereign state"
+1578,Amiri Baraka,occupation,playwright,human
+1579,Martin Buber,educated at,Humboldt University of Berlin,human
+1580,Marlene Dietrich,"languages spoken, written, or signed",French,human
+1581,Donald Glover,occupation,screenwriter,human
+1582,South Africa,diplomatic relation,Nigeria,"sovereign state, country"
+1583,Ireland,diplomatic relation,Romania,"sovereign state, country, island nation"
+1584,Alexander von Humboldt,member of,Bavarian Academy of Sciences and Humanities,human
+1585,John Cleese,occupation,comedian,human
+1586,Edvard Radzinsky,occupation,presenter,human
+1587,France,diplomatic relation,Myanmar,"country, colonial power, sovereign state, Mediterranean country"
+1588,Australia,diplomatic relation,Cambodia,"dominion of the British Empire, Commonwealth realm, sovereign state, country, federal state"
+1589,Justin Timberlake,genre,rhythm and blues,human
+1590,Josephine Baker,country of citizenship,United States of America,human
+1591,Aaliyah,record label,Atlantic Records,human
+1592,Italy,diplomatic relation,Argentina,"republic, unitary state, social state, Mediterranean country, sovereign state, country"
+1593,Friedrich Schlegel,occupation,university teacher,human
+1594,Janis Joplin,genre,contemporary folk music,human
+1595,David Lindley,record label,ABC Records,human
+1596,Willie Nelson,instrument,voice,human
+1597,Jacob Grimm,religion,Catholic Church,human
+1598,United States of America,member of,Organisation for the Prohibition of Chemical Weapons,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+1599,Master P,occupation,film actor,human
+1600,Marvin Gaye,record label,Motown,human
+1601,Anna Karina,place of death,Paris,human
+1602,Leonhard Euler,member of,Royal Prussian Academy of Sciences,human
+1603,Janet Jackson,occupation,musician,human
+1604,Nikolay Ogarev,genre,poetry,human
+1605,Brunei,diplomatic relation,United Kingdom,"sovereign state, country"
+1606,Angola,diplomatic relation,Zambia,"sovereign state, country"
+1607,Rudolf Virchow,member of,Accademia Nazionale delle Scienze detta dei XL,human
+1608,Georgia,member of,Organization for Security and Co-operation in Europe,"republic, unitary state, legal state, sovereign state, country"
+1609,Manfred Eigen,member of,German Academy of Sciences at Berlin,human
+1610,J. J. Abrams,country of citizenship,United States of America,human
+1611,Jennifer Love Hewitt,"languages spoken, written, or signed",English,human
+1612,Finland,diplomatic relation,Norway,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1613,Robert Schumann,occupation,musician,human
+1614,Spike Milligan,country of citizenship,Ireland,human
+1615,Peter Gay,member of,Academia Europaea,human
+1616,Roy Clark,cause of death,pneumonia,human
+1617,George Santayana,religion,agnosticism,human
+1618,Slovakia,member of,Australia Group,"landlocked country, country, sovereign state, republic"
+1619,Ralph Vaughan Williams,occupation,conductor,human
+1620,Svetlana Surganova,occupation,author,human
+1621,Mary Pickford,occupation,writer,human
+1622,Shaquille O'Neal,ethnic group,African Americans,human
+1623,Jaan Kaplinski,ethnic group,Jewish people,human
+1624,Germany,diplomatic relation,Albania,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+1625,Peter Debye,employer,Leipzig University,human
+1626,Lara Fabian,occupation,recording artist,human
+1627,Ingmar Bergman,occupation,film producer,human
+1628,Per Olov Enquist,employer,"""University of California, Los Angeles""",human
+1629,Angelina Jolie,"languages spoken, written, or signed",English,human
+1630,Jerry Garcia,occupation,singer,human
+1631,John Frederick William Herschel,member of,Royal Netherlands Academy of Arts and Sciences,human
+1632,Raymond Scott,country of citizenship,United States of America,human
+1633,Lebanon,official language,Arabic,"sovereign state, Mediterranean country, country"
+1634,François-René de Chateaubriand,genre,novel,human
+1635,Robert Graves,"languages spoken, written, or signed",Latin,human
+1636,Mexico,diplomatic relation,Kazakhstan,"country, sovereign state"
+1637,Jan Evangelista Purkyně,occupation,physician,human
+1638,Felix Mendelssohn,country of citizenship,Germany,human
+1639,Paul Auster,occupation,university teacher,human
+1640,Nora Ephron,field of work,essay,human
+1641,Mickey Rooney,country of citizenship,United States of America,human
+1642,Kiribati,continent,Oceania,"island nation, country, sovereign state"
+1643,Netherlands,member of,European Payments Union,"country, country of the Kingdom of the Netherlands"
+1644,Bret Michaels,occupation,screenwriter,human
+1645,Bruce Willis,residence,Los Angeles,human
+1646,Bryan Ferry,instrument,guitar,human
+1647,Friedrich Schlegel,genre,essay,human
+1648,Sergei Gerasimov,occupation,film actor,human
+1649,Gene Autry,genre,blues,human
+1650,Judd Apatow,residence,Los Angeles,human
+1651,Bahrain,member of,International Hydrographic Organization,"country, sovereign state, island nation"
+1652,Antonin Artaud,place of death,Paris,human
+1653,A. A. Milne,occupation,writer,human
+1654,Sid Caesar,occupation,writer,human
+1655,Felix Klein,employer,University of Göttingen,human
+1656,Jerry Lewis,occupation,writer,human
+1657,George Orwell,occupation,science fiction writer,human
+1658,Gambia,member of,Commonwealth of Nations,"country, sovereign state"
+1659,Russia,member of,International Telecommunication Union,"sovereign state, transcontinental country, legal state, country, secular state, great power, social state, countries bordering the Baltic Sea"
+1660,Kelly Rowland,occupation,singer,human
+1661,Nahum Sokolow,"languages spoken, written, or signed",Russian,human
+1662,Sweden,member of,Asian Development Bank,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1663,Mae West,place of burial,New York City,human
+1664,Latvia,member of,UNESCO,"republic, country, sovereign state, countries bordering the Baltic Sea"
+1665,United States of America,diplomatic relation,Iraq,"sovereign state, country, democratic republic, federal state, constitutional republic, superpowers"
+1666,Raven-Symoné,"languages spoken, written, or signed",English,human
+1667,Dmitri Kabalevsky,place of birth,Saint Petersburg,human
+1668,Renato Carosone,occupation,conductor,human
+1669,Sammy Davis Jr.,occupation,singer,human
+1670,Condoleezza Rice,occupation,university teacher,human
+1671,Anthony Burgess,ethnic group,English people,human
+1672,Korney Chukovsky,occupation,journalist,human
+1673,Prince,occupation,film producer,human
+1674,Renaud,record label,Polydor Records,human
+1675,Ralph Vaughan Williams,occupation,composer,human
+1676,Barry Manilow,country of citizenship,United States of America,human
+1677,Ernst Mach,religion,atheism,human
+1678,Dudley Moore,residence,London,human
+1679,Gordon Lightfoot,occupation,musician,human
+1680,Myles Kennedy,"languages spoken, written, or signed",English,human
+1681,Amanda Palmer,occupation,writer,human
+1682,Mario Vargas Llosa,occupation,essayist,human
+1683,Nazi Germany,official language,German,"historical period, historical country, sovereign state"
+1684,Iraq,diplomatic relation,Turkey,"sovereign state, country"
+1685,Demi Lovato,occupation,voice actor,human
+1686,Jack White,instrument,mandolin,human
+1687,Iraq,diplomatic relation,Denmark,"sovereign state, country"
+1688,Walt Disney Records,founded by,Walt Disney,record label
+1689,Renato Carosone,place of death,Rome,human
+1690,Gottfried Wilhelm Leibniz,occupation,writer,human
+1691,Taraneh Javanbakht,occupation,musician,human
+1692,Chile,diplomatic relation,Malaysia,"sovereign state, country"
+1693,Sergey Lazarev,occupation,presenter,human
+1694,People's Republic of China,diplomatic relation,Zimbabwe,"country, secular state, constitutional republic, socialist state, sovereign state"
+1695,Hayley Kiyoko,occupation,musician,human
+1696,Namibia,diplomatic relation,Botswana,"sovereign state, country, republic"
+1697,Phil Harris,genre,jazz,human
+1698,Léon Theremin,occupation,inventor,human
+1699,Jean-Paul Sartre,country of citizenship,France,human
+1700,Barbara Mandrell,instrument,voice,human
+1701,Tanzania,diplomatic relation,United States of America,"sovereign state, republic, country"
+1702,Nikita Mikhalkov,country of citizenship,Soviet Union,human
+1703,Etta James,instrument,voice,human
+1704,Saint Lucia,member of,Organization of American States,"Commonwealth realm, country, island nation, sovereign state"
+1705,Netherlands,diplomatic relation,Uruguay,"country, country of the Kingdom of the Netherlands"
+1706,Joni Mitchell,occupation,guitarist,human
+1707,Tamara Bunke,"languages spoken, written, or signed",German,human
+1708,Theodor Mommsen,member of,Serbian Academy of Sciences and Arts,human
+1709,Yvonne De Carlo,member of political party,Republican Party,human
+1710,Heinrich Rudolf Hertz,educated at,Ludwig Maximilian University of Munich,human
+1711,Slash,occupation,guitarist,human
+1712,Tara Strong,occupation,pianist,human
+1713,Sudan,diplomatic relation,Russia,"sovereign state, country, member states of the United Nations, republic"
+1714,Italy,diplomatic relation,Spain,"republic, unitary state, social state, Mediterranean country, sovereign state, country"
+1715,Maldives,member of,UNESCO,"sovereign state, country, island nation"
+1716,Chad,member of,Organisation for the Prohibition of Chemical Weapons,"sovereign state, country, landlocked country"
+1717,Tim Rice-Oxley,occupation,guitarist,human
+1718,Nena,record label,Columbia Records,human
+1719,Sierra Leone,diplomatic relation,Liberia,"sovereign state, republic, country"
+1720,Russia,diplomatic relation,Algeria,"sovereign state, transcontinental country, legal state, country, secular state, great power, social state, countries bordering the Baltic Sea"
+1721,RZA,ethnic group,African Americans,human
+1722,Sudan,diplomatic relation,Germany,"sovereign state, country, member states of the United Nations, republic"
+1723,France,diplomatic relation,Mauritius,"country, colonial power, sovereign state, Mediterranean country"
+1724,Poland,diplomatic relation,Taiwan,"sovereign state, country, countries bordering the Baltic Sea"
+1725,Romania,diplomatic relation,United States of America,"country, sovereign state"
+1726,Herbie Hancock,instrument,piano,human
+1727,Meat Loaf,occupation,singer-songwriter,human
+1728,Ed Sheeran,occupation,musician,human
+1729,Bo Burnham,occupation,comedian,human
+1730,John Frederick William Herschel,occupation,mathematician,human
+1731,Romain Rolland,cause of death,tuberculosis,human
+1732,George Ellery Hale,member of,Royal Swedish Academy of Sciences,human
+1733,North Korea,diplomatic relation,Taiwan,"country, sovereign state"
+1734,Rob Reiner,occupation,film director,human
+1735,Thomas Henry Huxley,occupation,translator,human
+1736,Prosper Mérimée,occupation,archaeologist,human
+1737,Guglielmo Marconi,member of,Academy of Sciences of Turin,human
+1738,Phil Collins,instrument,drum kit,human
+1739,Bobby Scott,place of death,New York City,human
+1740,Vanessa Hudgens,genre,pop music,human
+1741,Greece,member of,International Telecommunication Union,"Mediterranean country, unitary state, sovereign state, republic, country, member state of the European Union"
+1742,Jim Messina,occupation,mandolinist,human
+1743,Ray Lankester,occupation,university teacher,human
+1744,Denmark,diplomatic relation,Georgia,"colonial power, state, sovereign state, country, autonomous country within the Kingdom of Denmark, countries bordering the Baltic Sea"
+1745,George Sand,movement,Romanticism,human
+1746,Albertus Magnus,educated at,University of Paris (1896-1968),human
+1747,Solomon Islands,official language,English,"country, island nation, Commonwealth realm, sovereign state"
+1748,Valeriya Novodvorskaya,occupation,teacher,human
+1749,Libya,diplomatic relation,Pakistan,"country, sovereign state, Mediterranean country"
+1750,Adriano Celentano,occupation,actor,human
+1751,Peter Kropotkin,place of birth,Moscow,human
+1752,Karl Marx,occupation,sociologist,human
+1753,Dmitri Shostakovich,genre,classical music,human
+1754,Dudley Moore,occupation,jazz musician,human
+1755,Roger Daltrey,record label,Atlantic Records,human
+1756,Margaret Atwood,influenced by,Jack London,human
+1757,Jan Josef Liefers,occupation,singer,human
+1758,Ilya Ehrenburg,place of death,Moscow,human
+1759,Rainer Werner Fassbinder,occupation,playwright,human
+1760,Al Jolson,ethnic group,American Jews,human
+1761,People's Republic of China,diplomatic relation,Sri Lanka,"country, secular state, constitutional republic, socialist state, sovereign state"
+1762,Netherlands,diplomatic relation,Turkey,"country, country of the Kingdom of the Netherlands"
+1763,Federated States of Micronesia,member of,UNESCO,"country, island nation, sovereign state"
+1764,Senegal,diplomatic relation,United States of America,"legal state, administrative territorial entity, country, sovereign state, republic"
+1765,Lena Meyer-Landrut,"languages spoken, written, or signed",English,human
+1766,Stephen Hawking,occupation,university teacher,human
+1767,Douglas Fairbanks,genre,Western,human
+1768,Paul Valéry,"languages spoken, written, or signed",French,human
+1769,Germany,diplomatic relation,Burkina Faso,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+1770,Prince,influenced by,Little Richard,human
+1771,Ricky Gervais,religion,atheism,human
+1772,Jean Cocteau,country of citizenship,France,human
+1773,Armenia,diplomatic relation,Russia,"landlocked country, sovereign state, country"
+1774,GoonRock,occupation,rapper,human
+1775,Thomas Jefferson,member of,Royal Netherlands Academy of Arts and Sciences,human
+1776,Gustavo Cerati,instrument,bass guitar,human
+1777,Kingdom of the Netherlands,continent,Europe,"country, sovereign state, kingdom, colonial power"
+1778,Van McCoy,instrument,voice,human
+1779,St. Vincent,occupation,singer-songwriter,human
+1780,Allen Ginsberg,occupation,musician,human
+1781,Hong Kong,diplomatic relation,Singapore,"special administrative region of China, city, human settlement, metropolitan area, big city, city with millions of inhabitants"
+1782,Angela Merkel,"languages spoken, written, or signed",German,human
+1783,Finland,member of,Organization for Security and Co-operation in Europe,"country, sovereign state, unitary state, countries bordering the Baltic Sea"
+1784,Buckminster Fuller,place of death,Los Angeles,human
+1785,EMI,parent organization,Warner Music Group,"enterprise, business, privately held company, Wikipedia article covering multiple topics, record label, record company, holding company"
+1786,John Paul II,"languages spoken, written, or signed",German,human
+1787,Japan,diplomatic relation,Paraguay,"island nation, sovereign state, country"
+1788,Angela Merkel,residence,Berlin,human
+1789,Janelle Monáe,record label,Atlantic Records,human
+1790,Germany,diplomatic relation,Mongolia,"federal state, country, sovereign state, social state, legal state, republic, administrative territorial entity, countries bordering the Baltic Sea"
+1791,Malawi,member of,International Bank for Reconstruction and Development,"sovereign state, country, republic, landlocked country"
+1792,Oman,member of,International Finance Corporation,"country, sovereign state, sultanate"
+1793,Alsou,religion,Islam,human
+1794,Martin Sheen,country of citizenship,United States of America,human
+1795,Oscar Wilde,occupation,essayist,human
+1796,Guinea,official language,French,"country, sovereign state"
+1797,Raymond Aron,influenced by,Immanuel Kant,human
+1798,Israel,diplomatic relation,Ukraine,"country, sovereign state, Mediterranean country"
+1799,Norway,member of,Asian Development Bank,"sovereign state, country, constitutional monarchy"
+1800,Albert Camus,field of work,philosophy,human
+1801,Dmitry Glukhovsky,influenced by,Jorge Luis Borges,human
+1802,Emmanuel Swedenborg,cause of death,stroke,human
+1803,Jan Hammer,occupation,composer,human
+1804,David Foster,instrument,piano,human
+1805,Romania,diplomatic relation,Hungary,"country, sovereign state"
+1806,Jay-Z,"languages spoken, written, or signed",English,human
+1807,John Cleese,country of citizenship,United Kingdom,human
+1808,Jamie Foxx,instrument,voice,human
+1809,Georgia,member of,Group on Earth Observations,"republic, unitary state, legal state, sovereign state, country"
+1810,Tamer Hosny,occupation,actor,human
+1811,Lebanon,diplomatic relation,Brazil,"sovereign state, Mediterranean country, country"
+1812,Iggy Pop,instrument,percussion instrument,human
+1813,"Clarence ""Gatemouth"" Brown",cause of death,lung cancer,human
+1814,Herbie Hancock,genre,rhythm and blues,human
+1815,Janelle Monáe,occupation,film actor,human
+1816,Singapore,diplomatic relation,Malaysia,"city, island nation, port settlement, country, city-state, sovereign state, big city, city with millions of inhabitants"
+1817,Suriname,member of,Universal Postal Union,"colony, sovereign state, country"
+1818,Karl Lachmann,educated at,Leipzig University,human
+1819,Bret Michaels,occupation,singer-songwriter,human
+1820,Jon Bon Jovi,country of citizenship,United States of America,human
+1821,Peter Tork,instrument,guitar,human
+1822,Frank Sinatra,occupation,television actor,human
+1823,Gackt,genre,rock music,human
+1824,Chuck Berry,country of citizenship,United States of America,human
+1825,Zambia,diplomatic relation,Ethiopia,"landlocked country, sovereign state, republic, country"
+1826,Jaan Kaplinski,country of citizenship,Estonia,human
+1827,Laos,diplomatic relation,Philippines,"country, sovereign state, landlocked country, communist state"
